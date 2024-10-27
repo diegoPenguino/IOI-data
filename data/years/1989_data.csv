@@ -1,0 +1,47 @@
+Rank,Name,Country,Task 1,Task 2,Task 3,Score,Rel_score(%),Award
+1,Teodor Tonchev,Bulgaria 2,10,40,50,100,100.00,Gold
+2,Andrius Cepaitis,Soviet Union,5,40,50,95,95.00,Gold
+2,Dániel Szabó,Hungary,10,40,45,95,95.00,Gold
+2,Emanuel Todorov,Bulgaria,5,40,50,95,95.00,Gold
+2,Igor Maly,Czechoslovakia,5,40,50,95,95.00,Gold
+2,Markus Kuhn,Germany,10,40,45,95,95.00,Gold
+7,Anton  Altanov,Bulgaria,5,35,50,90,90.00,Silver
+7,Ivan Marinov,Bulgaria,10,40,40,90,90.00,Silver
+9,Hartmut Schwetlick,German Democratic Republic,10,35,38,83,83.00,Silver
+10,Ulf Nieländer,German Democratic Republic,8,38,35,81,81.00,Silver
+11,Lev Novick,Soviet Union,8,30,42,80,80.00,Silver
+12,Chai Haixin,China,10,30,35,75,75.00,Bronze
+13,Yang Hongbo,China,10,40,24,74,74.00,Bronze
+14,Jun Zhuang,China,8,40,24,72,72.00,Bronze
+15,Apostolos Lerios,Greece,10,35,20,65,65.00,Bronze
+15,Nguyen Linh Anh,Vietnam,10,35,20,65,65.00,Bronze
+15,Ulrich Kuehn,Germany,10,30,25,65,65.00,Bronze
+18,Ludwing O'Hallorans,Cuba,10,25,25,60,60.00,Bronze
+19,V. Solc,Czechoslovakia,10,38,10,58,58.00,
+20,S. Kasal,Czechoslovakia,8,28,20,56,56.00,
+20,Svetoslav Bonev,Bulgaria 2,8,28,20,56,56.00,
+22,Jens Woehlbier,Germany,10,20,25,55,55.00,
+23,József Ladányi,Hungary,8,25,21,54,54.00,
+24,D. Mavroidis,Greece,10,15,25,50,50.00,
+25,Krzysztof Stencel,Poland,10,20,15,45,45.00,
+25,Moisés Argüeyez,Cuba,5,20,20,45,45.00,
+27,D. Balfanz,German Democratic Republic,10,25,8,43,43.00,
+28,Alexei Kolybin,Soviet Union 3,5,15,20,40,40.00,
+29,Aleksander Kaczmarski,Poland,8,25,5,38,38.00,
+30,Tsvetomir Petrov,Bulgaria 2,9,18,5,32,32.00,
+31,E. Ivanov,Soviet Union 2,8,15,7,30,30.00,
+31,Vidal Rodríguez,Cuba,10,15,5,30,30.00,
+33,I. Garanin,Soviet Union 2,5,15,7,27,27.00,
+34,T. Nguyen Nam,Vietnam,5,15,0,20,20.00,
+34,Z. Pejchinov,Yugoslavia,10,5,5,20,20.00,
+36,I. Storozhuk,Soviet Union 2,5,5,5,15,15.00,
+36,Ilya Dogolacky,Soviet Union,5,5,5,15,15.00,
+38,H. Nguyen Duc,Vietnam,5,5,0,10,10.00,
+38,M. Petrovski,Yugoslavia,5,5,0,10,10.00,
+38,M. Stavropoulos,Greece,0,0,10,10,10.00,
+41,C. Mtigwe,Zimbabwe,7,0,0,7,7.00,
+42,A. Andreev,Soviet Union 3,5,0,0,5,5.00,
+42,A. Sannikov,Soviet Union 3,0,5,0,5,5.00,
+42,Anita Lalloo,Zimbabwe,5,0,0,5,5.00,
+42,S. Majoni,Zimbabwe,5,0,0,5,5.00,
+42,Sławomir Lasota,Poland,0,5,0,5,5.00,

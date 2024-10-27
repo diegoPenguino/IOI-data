@@ -1,0 +1,284 @@
+Rank,Name,Country,Task 1,Task 2,Task 3,Task 4,Task 5,Task 6,Score,Rel_score(%),Award
+1,Huacheng Yu,China,100,100,88,100,100,70,558,93.00,Gold
+2,Panupong Pasupat,Thailand,100,67,62,100,100,45,474,79.00,Gold
+3,Dong Zhou,China,100,0,100,100,100,70,470,78.33,Gold
+3,Marcin Kościelnicki,Poland,100,0,100,100,100,70,470,78.33,Gold
+5,Goran Žužić,Croatia,100,6,100,100,100,60,466,77.67,Gold
+6,Cosmin Gheorghe,Romania,100,65,100,6,100,70,441,73.50,Gold
+7,Gennady Korotkevich,Belarus,100,45,22,100,100,70,437,72.83,Gold
+8,David Benjamin,United States of America,100,57,62,100,100,10,429,71.50,Gold
+9,Jack Murray,Australia,100,0,86,100,100,35,421,70.17,Gold
+10,Neal Wu,United States of America,100,10,100,100,100,10,420,70.00,Gold
+11,Julian Fischer,Germany,100,0,57,100,100,60,417,69.50,Gold
+12,Chan Min Kim,Republic of Korea,100,10,60,100,72,70,412,68.67,Gold
+13,Danqi Chen,China,100,67,74,100,34,35,410,68.33,Gold
+14,Marcin Andrychowicz,Poland,100,10,29,100,100,70,409,68.17,Gold
+15,Sergey Rogulenko,Russia,100,5,100,68,100,35,408,68.00,Gold
+16,Han Jay Yang,Taiwan,100,0,62,100,100,35,397,66.17,Gold
+17,András Eisenberger,Hungary,100,70,10,100,100,10,390,65.00,Gold
+18,Jarosław Błasiok,Poland,100,6,23,100,100,60,389,64.83,Gold
+19,Hanson Wang,Canada,100,10,67,100,100,10,387,64.50,Gold
+20,Tana Wattanawaroon,Thailand,100,0,67,100,100,15,382,63.67,Gold
+21,Vladislav Epifanov,Russia,100,2,29,100,100,35,366,61.00,Gold
+22,Irvan Jahja,Indonesia,100,0,26,100,100,35,361,60.17,Gold
+23,Kazuhiro Hosaka,Japan,100,10,35,100,100,15,360,60.00,Gold
+24,Che Yang Wu,Taiwan,100,2,100,49,90,15,356,59.33,Gold
+25,Makoto Soejima,Japan,100,0,48,69,100,35,352,58.67,Silver
+26,Maciej Klimek,Poland,100,10,100,0,100,35,345,57.50,Silver
+27,Jae Sung Park,Republic of Korea,100,0,100,10,93,35,338,56.33,Silver
+28,Pāvels Cupikovs,Latvia,100,0,33,74,100,0,307,51.17,Silver
+29,Jacob Steinhardt,United States of America,100,0,68,0,100,35,303,50.50,Silver
+29,Zhomart Sadykov,Kazakhstan,40,7,77,69,100,10,303,50.50,Silver
+31,Sun il Kwon,Republic of Korea,100,0,23,7,100,70,300,50.00,Silver
+32,Lim Wei Quan,Singapore,100,0,62,0,100,30,292,48.67,Silver
+33,Vladimír Boža,Slovakia,100,4,26,30,100,25,285,47.50,Silver
+34,Paul Baltescu,Romania,100,10,40,1,100,30,281,46.83,Silver
+35,Balázs Szalkai,Hungary,100,7,68,68,36,0,279,46.50,Silver
+36,Johannes Josi,Switzerland,86,0,62,28,100,0,276,46.00,Silver
+37,Brian Hamrick,United States of America,100,2,24,100,34,15,275,45.83,Silver
+38,Ronald Ping Man Chan,New Zealand,100,0,16,58,100,0,274,45.67,Silver
+38,Yury Pisarchyk,Belarus,100,0,0,69,100,5,274,45.67,Silver
+40,Linyun Yu,China,100,7,8,23,100,35,273,45.50,Silver
+40,Momchil Slavchev  Tomov,Bulgaria,100,0,53,5,100,15,273,45.50,Silver
+42,Akim Kumok,Russia,100,10,68,19,40,35,272,45.33,Silver
+42,Ivo Sluganovic,Croatia,100,10,62,0,100,0,272,45.33,Silver
+44,Abel Nieto Rodriguez,Cuba,100,0,36,0,100,35,271,45.17,Silver
+45,Abhabongse Janthong,Thailand,100,0,40,68,61,0,269,44.83,Silver
+46,Wiktor Jakubiuk,United Kingdom,48,0,50,70,100,0,268,44.67,Silver
+47,Miroslav Klimoš,Czech Republic,100,0,62,5,100,0,267,44.50,Silver
+48,Jelle van den Hooff,Netherlands,100,0,5,24,100,35,264,44.00,Silver
+49,Miroslaw Michalski,United Kingdom,100,5,50,8,100,0,263,43.83,Silver
+50,Cheuk Ting Li,"Hong Kong, China",20,0,26,100,100,15,261,43.50,Silver
+51,Raman Udavichenka,Belarus,100,0,7,7,100,45,259,43.17,Silver
+52,Ji Hoon Ryoo,Republic of Korea,100,0,29,4,100,25,258,43.00,Silver
+53,Erik Massop,Netherlands,100,0,27,48,60,20,255,42.50,Silver
+53,Massimo Cairo,Italy,86,0,0,49,100,20,255,42.50,Silver
+55,Ruslan Simonenko,Ukraine,100,0,53,0,100,0,253,42.17,Silver
+56,Bakhytzhan Baizhikenov,Kazakhstan,100,0,26,0,100,25,251,41.83,Silver
+57,Enrique Lira Vargas,Mexico,100,0,33,0,100,15,248,41.33,Silver
+57,Gediminas Liktaras,Lithuania,100,0,0,68,80,0,248,41.33,Silver
+59,Nhan Nguyen,Vietnam,100,5,42,0,100,0,247,41.17,Silver
+60,Alexander Kaluzhin,Russia,30,10,48,18,100,40,246,41.00,Silver
+60,Harry Slatyer,Australia,100,0,3,28,100,15,246,41.00,Silver
+62,Gunnar Peng,Sweden,100,10,40,6,58,30,244,40.67,Silver
+63,Jarrah Lacko,Australia,100,10,62,11,55,5,243,40.50,Silver
+63,Peter Ondrúška,Slovakia,100,10,13,0,80,40,243,40.50,Silver
+65,Miklos Danka,Hungary,100,0,11,15,100,15,241,40.17,Silver
+66,Son Nguyen,Vietnam,100,0,8,6,90,35,239,39.83,Silver
+66,Vladimir Serbinenko,Switzerland,30,2,2,100,100,5,239,39.83,Silver
+68,You Cheng Syu,Taiwan,100,0,17,16,100,0,233,38.83,Silver
+69,Frederick Manners,United Kingdom,10,67,0,68,85,0,230,38.33,Silver
+69,Rumen Hristov,Bulgaria,90,0,24,6,100,10,230,38.33,Silver
+71,Roman Smrž,Czech Republic,100,0,21,0,93,15,229,38.17,Silver
+72,Patrik Fimml,Austria,100,0,23,0,100,5,228,38.00,Bronze
+73,Louis Jachiet,France,100,11,16,0,100,0,227,37.83,Bronze
+74,Sergiy Mogylnyy,Ukraine,100,0,26,0,100,0,226,37.67,Bronze
+75,Arif Oğuz Yıldız,Türkiye,100,0,14,11,100,0,225,37.50,Bronze
+76,Doeke Wolf,Netherlands,100,0,0,0,85,35,220,36.67,Bronze
+77,Giovanni Mascellani,Italy,40,0,0,78,100,0,218,36.33,Bronze
+77,Visit Pataranutaporn,Thailand,100,0,3,0,100,15,218,36.33,Bronze
+79,Ioannis Chatzimichos,Greece,72,7,62,0,58,15,214,35.67,Bronze
+79,Man Hin Jeffrey Hon,"Hong Kong, China",100,0,3,100,11,0,214,35.67,Bronze
+79,Robin Cheng,Canada,100,3,21,0,90,0,214,35.67,Bronze
+82,Ming Fung Philip Tai,"Hong Kong, China",100,0,13,0,100,0,213,35.50,Bronze
+82,Reinardus Surya Pradhitya,Indonesia,100,10,22,0,71,10,213,35.50,Bronze
+84,Adas Burkšaitis,Lithuania,100,0,0,0,100,10,210,35.00,Bronze
+84,Lim Wei Zhong,Singapore,100,0,0,0,100,10,210,35.00,Bronze
+86,Paolo Comaschi,Italy,90,0,21,0,76,20,207,34.50,Bronze
+87,Aliaksei Ropan,Belarus,30,0,33,5,100,35,203,33.83,Bronze
+88,Chiam Jia-Han,Singapore,100,2,0,0,100,0,202,33.67,Bronze
+88,Srivatsan Balakrishnan,India,100,0,0,0,72,30,202,33.67,Bronze
+88,Vytautas Gruslys,Lithuania,72,0,0,0,100,30,202,33.67,Bronze
+91,Eiichi Matsumoto,Japan,78,0,0,68,55,0,201,33.50,Bronze
+92,Eike Müller,Germany,100,0,0,0,100,0,200,33.33,Bronze
+92,Gábor Danner,Hungary,100,0,0,0,100,0,200,33.33,Bronze
+92,Peter Fulla,Slovakia,100,0,0,0,100,0,200,33.33,Bronze
+95,Bogdan Tantsyura,Ukraine,92,0,0,5,100,0,197,32.83,Bronze
+96,Quang Vu,Vietnam,100,0,0,0,90,5,195,32.50,Bronze
+97,Shuo fu Chen,Taiwan,100,0,7,0,85,0,192,32.00,Bronze
+98,Martin Fixman,Argentina,100,5,40,5,40,0,190,31.67,Bronze
+98,Stefan Yordanov  Avramov,Bulgaria,100,0,0,0,80,10,190,31.67,Bronze
+100,Risan,Indonesia,100,7,40,0,22,15,184,30.67,Bronze
+101,Maja Kabiljo,Serbia,100,0,14,7,58,0,179,29.83,Bronze
+102,Martin Marinov,Bulgaria,100,0,40,0,22,15,177,29.50,Bronze
+103,Ahmed Salem Ezzat,Egypt,100,0,40,0,35,0,175,29.17,Bronze
+104,Ludwig Schmidt,Germany,72,0,0,0,100,0,172,28.67,Bronze
+105,Mikko Sysikaski,Finland,56,0,0,7,98,5,166,27.67,Bronze
+105,Motoki Takigiku,Japan,100,0,30,0,26,10,166,27.67,Bronze
+107,Marcelo Galvão Póvoa,Brazil,40,4,10,1,100,10,165,27.50,Bronze
+108,Aleksi Hartikainen,Finland,20,0,18,0,90,35,163,27.17,Bronze
+108,Martun Karapetyan,Armenia,100,2,0,1,40,20,163,27.17,Bronze
+110,Anders Roy Christiansen,Denmark,100,0,9,0,53,0,162,27.00,Bronze
+111,Jan Berčič,Slovenia,100,0,21,0,40,0,161,26.83,Bronze
+112,Gabriel Luis Mello Dalalio,Brazil,30,0,29,0,100,0,159,26.50,Bronze
+113,Muhammad Saadiq Moolla,South Africa,56,0,0,0,100,0,156,26.00,Bronze
+114,Hayk Saribekyan,Armenia,100,0,19,0,35,0,154,25.67,Bronze
+114,Oļegs Ošmjans,Latvia,100,0,29,5,0,20,154,25.67,Bronze
+116,Listiarso Wastuargo,Indonesia,100,0,26,7,5,15,153,25.50,Bronze
+116,Nicolas Bruno Ponieman,Argentina,40,0,18,0,95,0,153,25.50,Bronze
+118,Adrian Satja Kurdija,Croatia,30,7,0,0,100,15,152,25.33,Bronze
+118,Bogdan-Cristian Tataroiu,Romania,100,0,21,0,26,5,152,25.33,Bronze
+118,Bruno Rahle,Croatia,100,0,11,1,40,0,152,25.33,Bronze
+118,Christophe Kamphaus,Luxembourg,100,0,20,0,22,10,152,25.33,Bronze
+122,Dat Nguyen,Vietnam,20,0,0,0,95,35,150,25.00,Bronze
+122,Simon Lindholm,Sweden,100,10,0,0,40,0,150,25.00,Bronze
+124,Aaron Voelker,Canada,100,0,8,0,40,0,148,24.67,Bronze
+124,Mehmet Ozan Saka,Türkiye,20,0,23,0,90,15,148,24.67,Bronze
+124,Zurab Kutsia,Georgia,100,0,6,5,22,15,148,24.67,Bronze
+127,David Venhoek,Netherlands,100,0,12,0,35,0,147,24.50,Bronze
+127,Eduards Kaļiņičenko,Latvia,20,0,0,7,100,20,147,24.50,Bronze
+127,Levan Varamashvili,Georgia,100,10,9,6,22,0,147,24.50,Bronze
+127,Uglješa Stojanović,Serbia,36,0,11,0,100,0,147,24.50,Bronze
+127,Ángel Pina,Spain,62,0,23,0,62,0,147,24.50,Bronze
+132,Chin Zhan Xiong,Singapore,100,0,18,7,2,15,142,23.67,Bronze
+132,Pedro Veras Bezerra da Silva,Brazil,100,0,32,0,0,10,142,23.67,Bronze
+134,Rodrigo Ruben Santiago Nieves,Mexico,100,0,0,5,35,0,140,23.33,Bronze
+135,Rafael Mantilla,Colombia,100,0,0,0,39,0,139,23.17,Bronze
+136,Ricardo Hahn Pereira,Brazil,100,0,0,0,2,35,137,22.83,Bronze
+137,Mariam Kobiashvili,Georgia,100,0,0,5,31,0,136,22.67,Bronze
+138,Samuel Hapák,Slovakia,100,0,29,0,0,0,129,21.50,Bronze
+139,Nadeem Moidu,India,30,0,0,0,98,0,128,21.33,Bronze
+140,Pradeep Mathias,India,86,0,0,1,40,0,127,21.17,Bronze
+140,Xi Chen,Australia,100,0,19,0,8,0,127,21.17,Bronze
+142,,No country,72,0,0,0,51,0,123,20.50,
+142,,No country,100,0,0,0,8,15,123,20.50,
+144,,No country,56,0,29,0,35,0,120,20.00,
+144,,No country,30,0,33,7,50,0,120,20.00,
+146,,No country,64,0,21,5,27,0,117,19.50,
+147,,No country,10,10,0,5,85,5,115,19.17,
+148,,No country,0,0,14,0,100,0,114,19.00,
+149,,No country,0,0,0,6,100,5,111,18.50,
+149,,No country,100,0,0,11,0,0,111,18.50,
+151,,No country,48,0,21,1,40,0,110,18.33,
+151,,No country,20,2,40,7,26,15,110,18.33,
+151,,No country,10,0,0,0,100,0,110,18.33,
+151,,No country,100,0,0,0,0,10,110,18.33,
+155,,No country,74,0,0,0,35,0,109,18.17,
+156,,No country,40,0,17,5,46,0,108,18.00,
+156,,No country,0,0,8,0,100,0,108,18.00,
+158,,No country,100,0,0,0,7,0,107,17.83,
+158,,No country,40,10,2,5,40,10,107,17.83,
+160,,No country,100,0,0,0,6,0,106,17.67,
+160,,No country,56,0,0,0,35,15,106,17.67,
+162,,No country,72,0,6,0,26,0,104,17.33,
+163,,No country,100,0,0,0,2,0,102,17.00,
+163,,No country,40,0,62,0,0,0,102,17.00,
+165,,No country,40,0,21,0,40,0,101,16.83,
+166,,No country,100,0,0,0,0,0,100,16.67,
+166,,No country,100,0,0,0,0,0,100,16.67,
+168,,No country,30,0,21,0,30,15,96,16.00,
+169,,No country,72,0,0,0,22,0,94,15.67,
+169,,No country,54,0,40,0,0,0,94,15.67,
+171,,No country,40,0,7,0,40,5,92,15.33,
+171,,No country,20,0,40,0,22,10,92,15.33,
+173,,No country,20,0,25,0,31,10,86,14.33,
+174,,No country,30,0,0,28,20,5,83,13.83,
+175,,No country,40,0,40,0,2,0,82,13.67,
+176,,No country,30,2,7,0,22,15,76,12.67,
+176,,No country,30,0,11,0,35,0,76,12.67,
+176,,No country,30,0,11,0,35,0,76,12.67,
+179,,No country,38,0,0,0,35,0,73,12.17,
+180,,No country,30,7,0,0,35,0,72,12.00,
+181,,No country,10,0,21,7,33,0,71,11.83,
+181,,No country,20,0,11,5,35,0,71,11.83,
+183,,No country,20,0,13,0,22,15,70,11.67,
+184,,No country,10,0,0,0,58,0,68,11.33,
+184,,No country,20,0,32,0,16,0,68,11.33,
+186,,No country,30,0,0,15,21,0,66,11.00,
+186,,No country,66,0,0,0,0,0,66,11.00,
+188,,No country,30,0,10,0,22,0,62,10.33,
+189,,No country,10,0,0,0,51,0,61,10.17,
+190,,No country,20,0,0,0,40,0,60,10.00,
+190,,No country,20,0,0,0,40,0,60,10.00,
+192,,No country,20,0,6,5,26,0,57,9.50,
+193,,No country,46,0,0,0,10,0,56,9.33,
+194,,No country,10,0,14,0,31,0,55,9.17,
+194,,No country,0,0,0,0,40,15,55,9.17,
+196,,No country,20,2,0,0,32,0,54,9.00,
+197,,No country,10,0,0,10,33,0,53,8.83,
+197,,No country,30,0,18,0,5,0,53,8.83,
+197,,No country,20,0,20,13,0,0,53,8.83,
+200,,No country,10,10,0,0,22,10,52,8.67,
+201,,No country,10,0,0,5,35,0,50,8.33,
+202,,No country,20,0,14,0,0,15,49,8.17,
+203,,No country,0,0,0,0,40,5,45,7.50,
+204,,No country,30,0,0,10,2,0,42,7.00,
+204,,No country,0,0,0,0,22,20,42,7.00,
+206,,No country,20,0,21,0,0,0,41,6.83,
+206,,No country,20,0,21,0,0,0,41,6.83,
+208,,No country,0,0,0,0,40,0,40,6.67,
+208,,No country,0,0,0,0,40,0,40,6.67,
+208,,No country,0,0,0,0,40,0,40,6.67,
+208,,No country,0,0,0,0,35,5,40,6.67,
+212,,No country,10,0,3,0,24,0,37,6.17,
+212,,No country,20,0,0,0,2,15,37,6.17,
+214,,No country,10,0,0,16,0,10,36,6.00,
+214,,No country,0,0,32,0,4,0,36,6.00,
+216,,No country,0,0,0,0,35,0,35,5.83,
+216,,No country,0,0,0,0,35,0,35,5.83,
+216,,No country,10,0,3,0,22,0,35,5.83,
+219,,No country,0,0,0,0,33,0,33,5.50,
+219,,No country,0,0,0,0,13,20,33,5.50,
+221,,No country,10,0,0,0,22,0,32,5.33,
+221,,No country,10,0,0,0,22,0,32,5.33,
+223,,No country,0,0,0,0,26,5,31,5.17,
+224,,No country,10,0,5,0,0,15,30,5.00,
+225,,No country,20,0,0,0,8,0,28,4.67,
+226,,No country,20,0,0,5,2,0,27,4.50,
+227,,No country,0,0,0,0,26,0,26,4.33,
+228,,No country,10,0,0,0,15,0,25,4.17,
+229,,No country,10,5,0,0,8,0,23,3.83,
+230,,No country,0,0,0,0,20,0,20,3.33,
+230,,No country,0,0,0,0,0,20,20,3.33,
+230,,No country,20,0,0,0,0,0,20,3.33,
+233,,No country,0,0,0,0,0,15,15,2.50,
+233,,No country,0,0,0,0,0,15,15,2.50,
+235,,No country,0,0,0,0,2,10,12,2.00,
+235,,No country,10,0,0,0,2,0,12,2.00,
+237,,No country,10,0,0,0,0,0,10,1.67,
+237,,No country,10,0,0,0,0,0,10,1.67,
+237,,No country,10,0,0,0,0,0,10,1.67,
+237,,No country,0,0,0,0,0,10,10,1.67,
+237,,No country,10,0,0,0,0,0,10,1.67,
+237,,No country,10,0,0,0,0,0,10,1.67,
+237,,No country,10,0,0,0,0,0,10,1.67,
+244,,No country,0,0,0,0,8,0,8,1.33,
+245,,No country,0,0,0,0,2,5,7,1.17,
+246,,No country,0,0,0,6,0,0,6,1.00,
+246,,No country,0,0,0,4,2,0,6,1.00,
+246,,No country,0,0,0,0,6,0,6,1.00,
+249,,No country,0,0,0,0,0,5,5,0.83,
+249,,No country,0,0,0,5,0,0,5,0.83,
+249,,No country,0,0,0,5,0,0,5,0.83,
+249,,No country,0,0,0,5,0,0,5,0.83,
+253,,No country,0,0,0,0,2,0,2,0.33,
+253,,No country,0,0,0,0,2,0,2,0.33,
+253,,No country,0,0,0,0,2,0,2,0.33,
+253,,No country,0,0,0,0,2,0,2,0.33,
+253,,No country,0,0,0,0,2,0,2,0.33,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,
+258,,No country,0,0,0,0,0,0,0,0.00,

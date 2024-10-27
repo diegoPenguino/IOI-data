@@ -1,0 +1,355 @@
+Rank,Name,Country,Task 1,Task 2,Task 3,Task 4,Task 5,Task 6,Score,Rel_score(%),Award
+1,Tingqiang Xu,China,100,100,100.0,100,100,80,580.0,96.67,Gold
+2,Siyuan Cheng,China,100,100,100.0,100,100,79,579.0,96.50,Gold
+3,Antoni Buraczewski,Poland,100,100,65.5,71,100,54,490.5,81.75,Gold
+4,Yuki Tanaka,Japan,100,100,77.5,0,100,80,457.5,76.25,Gold
+5,Rain Jiang,United States of America,100,85,77.5,31,100,54,447.5,74.58,Gold
+6,Langrui Qi,China,100,100,100.0,22,65,35,422.0,70.33,Gold
+7,Agastya Goel,United States of America,100,70,70.0,31,65,82,418.0,69.67,Gold
+8,Yiping Liu,China,100,85,35.5,31,100,65,416.5,69.42,Gold
+9,Shogo Amacho,Japan,83,85,77.5,31,100,35,411.5,68.58,Gold
+10,Ivan Piskarev,No country,100,70,52.0,22,65,92,401.0,66.83,Gold
+11,Ryan Bai,Canada,73,100,52.0,31,100,35,391.0,65.17,Gold
+12,Rohin Garg,United States of America,83,70,77.5,23,100,35,388.5,64.75,Gold
+13,Kshitij Sodani,India,83,100,73.0,31,65,35,387.0,64.50,Gold
+14,Chi Wang,Taiwan,83,70,65.5,23,100,45,386.5,64.42,Gold
+15,Parsa Pordeli Behrouz,Iran,83,85,70.0,31,65,44,378.0,63.00,Gold
+16,Erekle Roinishvili,United Kingdom,83,85,35.5,23,100,45,371.5,61.92,Gold
+17,Austin Geng,United States of America,43,60,65.5,14,100,88,370.5,61.75,Gold
+18,Anton Stepanov,No country,83,85,65.5,9,100,25,367.5,61.25,Gold
+19,Alon Tanay,Israel,100,100,35.5,37,65,25,362.5,60.42,Gold
+20,Valerii Rodionov,No country,83,70,77.5,31,65,35,361.5,60.25,Gold
+21,Daiki Kodama,Japan,83,70,77.5,31,65,34,360.5,60.08,Gold
+22,Sanghoon Park,Republic of Korea,43,60,65.5,31,100,54,353.5,58.92,Gold
+23,Tia Shi Wei,Singapore,52,85,35.5,23,100,54,349.5,58.25,Gold
+24,Daniel Weber,Israel,43,70,47.5,31,100,54,345.5,57.58,Gold
+25,Hibiki Nishiwaki,Japan,83,60,77.5,5,65,54,344.5,57.42,Gold
+26,Evan Lin,Australia,43,85,65.5,31,65,54,343.5,57.25,Gold
+27,Khoa Nguyen Ngoc Dang,Vietnam,83,70,65.5,31,39,54,342.5,57.08,Gold
+28,Donghyeon Lee,Republic of Korea,52,70,65.5,31,100,16,334.5,55.75,Gold
+28,Elazar Koren,Israel,29,85,35.5,31,100,54,334.5,55.75,Gold
+30,Gimran Abdullin,No country,43,70,35.5,31,100,54,333.5,55.58,Gold
+31,Ting-Wei Chang,Taiwan,8,70,65.5,31,100,54,328.5,54.75,Silver
+32,Aidar Munduzbaev,Kyrgyzstan,29,60,70.0,31,100,35,325.0,54.17,Silver
+33,James Sng,Singapore,83,70,35.5,23,65,44,320.5,53.42,Silver
+34,Bach Tran Xuan,Vietnam,83,70,52.0,31,65,16,317.0,52.83,Silver
+35,Bálint Rózsa,Canada,17,85,35.5,31,100,44,312.5,52.08,Silver
+36,Eliška Macáková,Slovakia,52,85,65.5,13,65,25,305.5,50.92,Silver
+37,Matīss Kristiņš,Latvia,83,85,18.0,14,39,62,301.0,50.17,Silver
+38,Po-Kai Chen,Taiwan,43,60,65.5,31,65,35,299.5,49.92,Silver
+39,Ansis Gustavs Andersons,Latvia,0,85,65.5,14,65,67,296.5,49.42,Silver
+40,Ilia Kondakov,Serbia,43,60,54.0,22,100,16,295.0,49.17,Silver
+41,Alexandru-Raul Todoran,Romania,29,40,77.5,23,65,54,288.5,48.08,Silver
+42,Vannes Wijaya,Indonesia,38,85,24.0,31,65,44,287.0,47.83,Silver
+43,Jakob Rødal Skaar,Norway,43,60,24.0,14,65,80,286.0,47.67,Silver
+44,Albert Ariel Putra,Indonesia,29,40,65.5,31,65,54,284.5,47.42,Silver
+45,Fatih Solak,Türkiye,52,40,61.0,31,65,35,284.0,47.33,Silver
+46,Oscar Fischler,France,43,60,65.5,14,65,35,282.5,47.08,Silver
+47,Debojoti Das Soumya,Bangladesh,52,40,65.5,31,39,54,281.5,46.92,Silver
+47,Yi-Chun Chiu,Taiwan,63,15,35.5,14,100,54,281.5,46.92,Silver
+49,Miloš Milutinović,Serbia,73,40,36.0,31,65,35,280.0,46.67,Silver
+50,Benjamin Swart,Czech Republic,29,40,25.0,0,100,85,279.0,46.50,Silver
+51,Adam Gąsienica-Samek,Poland,83,15,65.5,14,65,35,277.5,46.25,Silver
+51,Chun Wong,"Hong Kong, China",59,60,19.5,23,100,16,277.5,46.25,Silver
+53,Victor Vorona,Moldova,43,60,6.0,14,100,54,277.0,46.17,Silver
+54,Thang Nguyen Duc,Vietnam,52,60,14.0,31,65,54,276.0,46.00,Silver
+55,Jerry Zirui Li,Australia,9,100,35.5,31,65,35,275.5,45.92,Silver
+Guest,Bernát Tarján,Hungary 2,17,70,52.0,31,65,35,270.0,45.00,Silver
+56,Theofanis Orfanou,Cyprus,29,85,24.0,31,65,35,269.0,44.83,Silver
+57,Johann Gaulke,Germany,43,70,6.0,5,65,78,267.0,44.50,Silver
+57,Sungho Lee,Republic of Korea,43,40,61.0,23,65,35,267.0,44.50,Silver
+59,Charles Dai,France,100,40,65.5,5,39,16,265.5,44.25,Silver
+60,Leonardo Valente Nascimento,Brazil,17,85,22.0,31,65,44,264.0,44.00,Silver
+61,Ditbul Ban,Republic of Korea,43,60,65.5,14,65,16,263.5,43.92,Silver
+62,Luca Perju Verzotti,Romania,21,85,77.5,0,19,59,261.5,43.58,Silver
+63,Andrei-Robert Ion,Romania,8,85,35.5,14,100,16,258.5,43.08,Silver
+64,Soheil Mohammadkhani,Iran,73,60,19.5,5,65,35,257.5,42.92,Silver
+65,Cassidy Kyler Tan,Philippines,43,40,35.5,23,65,44,250.5,41.75,Silver
+66,Fateme Tamehri,Iran,83,60,14.0,22,65,6,250.0,41.67,Silver
+67,Warren Bei,Canada,37,60,65.5,31,39,16,248.5,41.42,Silver
+68,Andrii Stolitnii,Ukraine,43,60,31.0,14,65,35,248.0,41.33,Silver
+69,Chong Ho Hsieh,"Hong Kong, China",43,100,19.5,14,65,6,247.5,41.25,Silver
+70,Finn Rudolph,Germany,43,40,24.0,31,65,44,247.0,41.17,Silver
+70,Taimas Korganbayev,Kazakhstan,43,60,31.0,13,65,35,247.0,41.17,Silver
+72,Andrii Smutchak,Ukraine,17,60,19.5,31,65,54,246.5,41.08,Silver
+72,Shreyan Ray,India,26,60,29.5,31,65,35,246.5,41.08,Silver
+74,Paras Kasmalkar,India,17,70,29.5,28,65,35,244.5,40.75,Silver
+75,Miles Conway,Australia,43,40,8.0,31,65,54,241.0,40.17,Silver
+76,Amirhossein Vahiditabar,Iran,17,85,14.0,14,65,44,239.0,39.83,Silver
+77,Alisa Potomkina,Ukraine,8,85,35.5,0,65,45,238.5,39.75,Silver
+77,Hua Zhi Vee,Malaysia,29,60,35.5,31,39,44,238.5,39.75,Silver
+77,Innokentiy Kaurov,Spain,29,40,65.5,31,19,54,238.5,39.75,Silver
+80,Yi Fung Lu,"Hong Kong, China",29,70,25.0,14,65,35,238.0,39.67,Silver
+81,Tarash Dolaberidze,Georgia,8,70,54.0,14,65,25,236.0,39.33,Silver
+81,Veikko Heikkinen,Finland,29,70,6.0,22,65,44,236.0,39.33,Silver
+83,Raphael Gaedtke,Germany,43,60,35.5,31,39,25,233.5,38.92,Silver
+84,Matthew Allan,Indonesia,29,40,24.0,31,65,44,233.0,38.83,Silver
+85,Yaw Chur Zhe,Singapore,38,15,65.5,14,65,35,232.5,38.75,Silver
+86,Martynas Šmaižys,Lithuania,43,60,24.0,23,65,16,231.0,38.50,Silver
+87,Dzmitry Antashkevich,No country,9,15,65.5,22,65,54,230.5,38.42,Silver
+88,Alejandro Vivero Puga,Spain,52,40,24.0,14,65,35,230.0,38.33,Silver
+89,Elias Bauer,Switzerland,43,40,18.0,9,65,54,229.0,38.17,Bronze
+90,Darío Martínez Ramírez,Spain,0,85,35.5,5,65,34,224.5,37.42,Bronze
+91,Boris Mihov,Bulgaria,17,40,54.0,14,65,34,224.0,37.33,Bronze
+91,Rafał Mańczyk,Poland,0,85,61.0,23,39,16,224.0,37.33,Bronze
+93,Daryna Karpenko,Ukraine,8,85,24.0,22,65,16,220.0,36.67,Bronze
+94,Joel Gunawan,Indonesia,29,15,24.0,31,65,54,218.0,36.33,Bronze
+94,Rafael Nascimento Soares,Brazil,43,60,24.0,0,65,26,218.0,36.33,Bronze
+96,Abdelmaged Nour,Egypt,43,60,19.5,14,65,16,217.5,36.25,Bronze
+96,Aleksandar Gatev,Bulgaria,43,15,35.5,31,39,54,217.5,36.25,Bronze
+98,Filip Bojković,Serbia,35,40,28.0,14,65,35,217.0,36.17,Bronze
+98,Fran Babić,Croatia,83,15,6.0,14,65,34,217.0,36.17,Bronze
+100,Hanks Chong,United Kingdom,29,40,35.5,31,65,16,216.5,36.08,Bronze
+101,Leo Varis,Finland,29,30,24.0,14,65,54,216.0,36.00,Bronze
+101,Mars Xiang,Canada,37,15,61.0,22,65,16,216.0,36.00,Bronze
+103,Pedro Suyama Leston Rey,Brazil,0,85,1.5,9,65,53,213.5,35.58,Bronze
+104,Mohamed Bakry,Egypt,8,70,31.0,23,65,16,213.0,35.50,Bronze
+105,Chi Ho Wang,"Hong Kong, China",17,40,24.0,31,65,35,212.0,35.33,Bronze
+106,Tengiz Bekkoyonov,Kyrgyzstan,43,40,24.0,23,65,16,211.0,35.17,Bronze
+107,Chon Hou Ye,"Macao, China",43,15,47.5,5,65,34,209.5,34.92,Bronze
+107,István Ádám Molnár,Hungary,29,15,35.5,31,65,34,209.5,34.92,Bronze
+107,Olaf Targowski,Poland,18,0,49.5,23,65,54,209.5,34.92,Bronze
+110,Martin Bierbaumer,Austria,83,85,25.0,0,0,16,209.0,34.83,Bronze
+111,Arthur Lobo Leite Lopes,Brazil,9,85,1.5,14,65,34,208.5,34.75,Bronze
+112,Matthias Pleschinger,Austria,9,85,24.0,0,65,25,208.0,34.67,Bronze
+113,Nemanja Majski,Serbia,29,40,24.0,14,65,35,207.0,34.50,Bronze
+114,David S. Eikeland,Norway,29,40,14.0,14,65,44,206.0,34.33,Bronze
+114,Humaid Alhuthali,Saudi Arabia,8,60,24.0,14,65,35,206.0,34.33,Bronze
+116,Jamie Lim Jia Sin,Singapore,43,5,24.0,14,65,54,205.0,34.17,Bronze
+116,Luka Mosiashvili,Georgia,8,70,6.0,31,65,25,205.0,34.17,Bronze
+118,Cengiz Eray Aslan,Türkiye,43,15,49.5,14,65,16,202.5,33.75,Bronze
+119,Sithija Abhishek Kotuwewatta,Sri Lanka,8,60,24.0,9,65,35,201.0,33.50,Bronze
+119,Valijonov Dilyorbek,Uzbekistan,29,60,6.0,23,39,44,201.0,33.50,Bronze
+121,Pablo Sáez Reyes,Spain,8,40,19.5,23,65,44,199.5,33.25,Bronze
+122,Cagan Ahmet Yanmaz,Türkiye,21,40,6.0,31,65,35,198.0,33.00,Bronze
+122,Francesco Vercellesi,Italy,52,5,28.0,14,65,34,198.0,33.00,Bronze
+122,Lőrinc Máté,Hungary,43,85,14.0,31,0,25,198.0,33.00,Bronze
+125,Tsovak Yegoryan,Armenia,29,30,14.0,22,65,35,195.0,32.50,Bronze
+126,Jakob Žorž,Slovenia,0,70,29.5,14,65,16,194.5,32.42,Bronze
+127,Boldizsár Mann,Germany,0,85,6.0,13,65,25,194.0,32.33,Bronze
+127,Minh Nguyen Quang,Vietnam,43,5,52.0,23,65,6,194.0,32.33,Bronze
+129,Luka Meladze,Georgia,8,40,65.5,23,39,16,191.5,31.92,Bronze
+130,Samvel Abelyan,Armenia,21,40,24.0,31,39,35,190.0,31.67,Bronze
+131,Daniel Murphy,Luxembourg,43,40,18.0,14,39,35,189.0,31.50,Bronze
+131,Mikhail Brel,No country,21,40,14.0,14,65,35,189.0,31.50,Bronze
+133,Pakarin Leetrairong,Thailand,43,15,35.5,14,65,16,188.5,31.42,Bronze
+133,Štěpán Mikéska,Czech Republic,0,85,49.5,0,39,15,188.5,31.42,Bronze
+135,Sushil Raaja Umasudhan,India,29,15,47.5,31,39,26,187.5,31.25,Bronze
+136,Benjamin Kleyn,South Africa,0,85,14.0,14,39,35,187.0,31.17,Bronze
+137,Berke Inan Tol,Türkiye,29,15,47.5,14,65,16,186.5,31.08,Bronze
+138,Minkyum Kim,South Africa,0,85,6.0,14,65,16,186.0,31.00,Bronze
+138,Panagiotis Paskalis,Greece,17,40,6.0,14,65,44,186.0,31.00,Bronze
+138,Turkhuu Batbayar,Mongolia,8,85,6.0,23,39,25,186.0,31.00,Bronze
+141,Timur Degteari,Moldova,29,15,35.5,31,39,35,184.5,30.75,Bronze
+142,Samuel Trajtenberg,United Kingdom,17,40,14.0,31,65,16,183.0,30.50,Bronze
+142,Teetat Thamronglak,Thailand,29,15,24.0,14,65,36,183.0,30.50,Bronze
+144,Farhan Ahmad,Bangladesh,9,15,36.0,31,65,25,181.0,30.17,Bronze
+144,Irakli Sulamanidze,Georgia,38,5,61.0,22,39,16,181.0,30.17,Bronze
+146,Damjan Davkov,North Macedonia,9,60,24.0,14,39,34,180.0,30.00,Bronze
+147,Márton Németh,Hungary,8,40,0.0,22,65,44,179.0,29.83,Bronze
+Guest,Máté Fülöp,Hungary 2,29,40,24.0,31,39,16,179.0,29.83,Bronze
+148,Alessandro Lombardo,Italy,8,70,6.0,22,65,6,177.0,29.50,Bronze
+148,Jerome Austin Te,Philippines,17,40,24.0,22,39,35,177.0,29.50,Bronze
+150,Enerelt Delgerdalai,Mongolia,43,40,6.0,31,39,16,175.0,29.17,Bronze
+150,Zhiyi Luo,Belgium,17,40,14.0,31,39,34,175.0,29.17,Bronze
+152,Luna Skjernaa Mygind,Denmark,43,5,40.5,5,65,16,174.5,29.08,Bronze
+153,Ján Gottweis,Slovakia,43,15,18.0,5,39,54,174.0,29.00,Bronze
+154,Jarif Rahman,Bangladesh,38,5,35.5,14,65,16,173.5,28.92,Bronze
+155,Veaceslav Guzun,Moldova,29,60,24.0,14,39,6,172.0,28.67,Bronze
+156,Yahia Elhawy,Egypt,8,60,24.0,14,39,25,170.0,28.33,Bronze
+157,Alexandru Luchianov,Romania,43,15,24.0,14,39,34,169.0,28.17,Bronze
+157,Atanas Dimitrov,Bulgaria,8,85,8.0,23,39,6,169.0,28.17,Bronze
+157,Filbert Ephraim Wu,Philippines,17,40,24.0,14,39,35,169.0,28.17,Bronze
+160,Alihan Aidarbekov,Kyrgyzstan,38,40,28.0,22,39,0,167.0,27.83,Bronze
+Guest,Marcell Németh,Hungary 2,8,40,24.0,14,65,16,167.0,27.83,Bronze
+161,Ryhor Koshman,No country,29,15,36.0,14,65,6,165.0,27.50,Bronze
+162,Yahia Emara,Egypt,8,40,1.5,22,39,54,164.5,27.42,Bronze
+163,Dilshodbek Khujaev,Uzbekistan,29,5,52.0,14,39,25,164.0,27.33,Bronze
+164,Adriāns Piliksers,Latvia,8,60,13.5,9,39,34,163.5,27.25,Bronze
+165,Amin Charba,Syria,17,15,18.0,14,65,34,163.0,27.17,Bronze
+165,Vesselin Markovich,Bulgaria,17,60,0.0,5,65,16,163.0,27.17,Bronze
+167,Anatol Coen,New Zealand,9,5,6.0,23,65,54,162.0,27.00,Bronze
+167,Théo Hollender,France,9,60,6.0,14,39,34,162.0,27.00,Bronze
+169,Jonni Haapiainen,Finland,43,40,14.0,9,39,16,161.0,26.83,Bronze
+170,Guanhan Li,New Zealand,0,40,6.0,14,65,35,160.0,26.67,Bronze
+171,Toni Brajko,Croatia,43,15,6.0,14,65,16,159.0,26.50,Bronze
+171,Uladzimir Marozau,No country,29,5,28.0,23,39,35,159.0,26.50,Bronze
+173,Onolt Khurtsbilguun,Mongolia,52,5,6.0,31,39,25,158.0,26.33,Bronze
+174,Ivan Janjić,Croatia,8,70,1.5,14,39,24,156.5,26.08,Bronze
+175,Fuad Garayev,Azerbaijan,9,5,54.0,14,65,6,153.0,25.50,Bronze
+175,Gagik Gevorgyan,Armenia,29,40,6.0,23,39,16,153.0,25.50,Bronze
+175,Nazar Serazitdinov,Kazakhstan,17,15,24.0,14,29,54,153.0,25.50,Bronze
+175,Phoebe Zhang,New Zealand,9,40,8.0,22,39,35,153.0,25.50,Bronze
+179,Nedas Bolevičius,Lithuania,0,0,65.5,5,65,16,151.5,25.25,
+180,Baitoro Mairambekov,Kyrgyzstan,29,40,14.0,14,29,25,151.0,25.17,Honourable Mention
+180,Bernard Ibrahimcha,Syria,8,40,6.0,23,39,35,151.0,25.17,Honourable Mention
+180,Isaac Lee,Ireland,8,40,8.0,14,65,16,151.0,25.17,Honourable Mention
+183,Essa Almousa,Saudi Arabia,0,60,24.0,31,0,35,150.0,25.00,Honourable Mention
+184,Mansur Mamadakhunov,Kazakhstan,8,40,24.0,31,39,6,148.0,24.67,Honourable Mention
+185,Josia John,Switzerland,8,85,24.0,5,19,6,147.0,24.50,Honourable Mention
+186,Lara Semeš,Croatia,8,60,18.0,5,39,16,146.0,24.33,Honourable Mention
+186,Sahib Aliyev,Azerbaijan,29,15,14.0,14,39,35,146.0,24.33,Honourable Mention
+188,Alexandru Andrei,Moldova,17,5,14.0,9,65,35,145.0,24.17,Honourable Mention
+188,Jonathon Sun,New Zealand,21,5,24.0,14,65,16,145.0,24.17,Honourable Mention
+188,Yuval Vaknin,Israel,0,85,0.0,5,39,16,145.0,24.17,Honourable Mention
+191,Egor Georgievskii,Montenegro,21,40,19.5,9,39,16,144.5,24.08,Honourable Mention
+192,Admir Zatega,Bosnia and Herzegovina,8,5,0.0,31,65,35,144.0,24.00,Honourable Mention
+192,Bor Brudar,Slovenia,8,40,18.0,14,39,25,144.0,24.00,
+192,Io Fai Lei,"Macao, China",17,40,18.0,14,39,16,144.0,24.00,Honourable Mention
+195,Benjamin Mujkić,Bosnia and Herzegovina,17,15,25.0,31,39,16,143.0,23.83,
+195,Kwong Weng Loh,Malaysia,8,60,6.0,14,39,16,143.0,23.83,Honourable Mention
+197,Luca Baglietto,Italy,43,60,25.0,5,0,9,142.0,23.67,Honourable Mention
+197,Victor Vatn,Sweden,8,15,0.0,0,65,54,142.0,23.67,Honourable Mention
+199,Benedikt Vilji Magnússon,Iceland,8,30,48.0,0,39,16,141.0,23.50,Honourable Mention
+199,Mohamed Ali Saidane,Tunisia,8,15,14.0,14,65,25,141.0,23.50,Honourable Mention
+199,Van Li,Kazakhstan,8,5,6.0,23,65,34,141.0,23.50,Honourable Mention
+202,Marko Petrov,North Macedonia,17,40,14.0,23,39,6,139.0,23.17,Honourable Mention
+203,Fidan Huseynova,Azerbaijan,29,15,6.0,14,39,35,138.0,23.00,Honourable Mention
+Guest,Bendegúz Péter Vámosi,Hungary 2,0,85,8.0,0,0,44,137.0,22.83,Honourable Mention
+204,Arthur Wenqi Sun,Australia,8,15,8.0,14,65,25,135.0,22.50,Honourable Mention
+204,Zein Alabdeen Zammar,Syria,29,5,14.0,23,39,25,135.0,22.50,Honourable Mention
+206,Sunnatov Asilbek,Uzbekistan,21,15,1.5,31,65,0,133.5,22.25,Honourable Mention
+207,Antonín Maloň,Czech Republic,17,15,6.0,14,65,16,133.0,22.17,Honourable Mention
+207,Demetris Chrysostomou,Cyprus,0,15,6.0,31,65,16,133.0,22.17,Honourable Mention
+209,John Lloyd Allas,Philippines,29,15,19.5,14,39,16,132.5,22.08,
+209,Martin Belluš,Slovakia,8,40,13.5,0,65,6,132.5,22.08,
+211,Ayman Riad Solh,Morocco,18,0,0.0,14,65,34,131.0,21.83,Honourable Mention
+212,Amir El Arbi,Tunisia,29,5,18.0,14,39,25,130.0,21.67,
+213,Yassine Ben Younes,Tunisia,0,5,35.5,5,29,54,128.5,21.42,Honourable Mention
+214,Pattarakorn Sutthajunya,Thailand,8,5,35.5,5,39,35,127.5,21.25,
+215,Pál Czanik,Hungary,8,70,0.0,5,19,25,127.0,21.17,Honourable Mention
+216,Poonyapat Sriroth,Thailand,8,5,35.5,14,39,25,126.5,21.08,
+217,Mohammad Wael Al Zaiback,Syria,17,40,0.0,14,39,16,126.0,21.00,
+218,Malik Sadaqa,Jordan,0,40,36.0,9,39,0,124.0,20.67,Honourable Mention
+218,Øystein Berntzen,Norway,0,5,24.0,14,65,16,124.0,20.67,Honourable Mention
+220,Antreas Knais,Cyprus,17,5,14.0,31,39,16,122.0,20.33,
+221,Angelo Farfan Ore,Peru,0,40,8.0,17,39,16,120.0,20.00,
+222,Jasmin Studer,Switzerland,9,15,35.5,5,39,16,119.5,19.92,
+223,Cynthia Naely López Estrada,Mexico,9,15,12.0,9,39,34,118.0,19.67,
+224,Jeroen Krijgsman,Netherlands,0,5,18.0,0,39,54,116.0,19.33,Honourable Mention
+224,Liudas Staniulis,Lithuania,8,40,18.0,5,39,6,116.0,19.33,
+226,Adeeb AlShehry,Saudi Arabia,17,40,24.0,9,0,25,115.0,19.17,Honourable Mention
+226,Gustav Bille Gørtz,Denmark,8,15,6.0,5,65,16,115.0,19.17,
+228,Adrian Dobbe Flemmen,Norway,8,0,1.5,5,65,35,114.5,19.08,Honourable Mention
+228,Erik Ježek,Czech Republic,0,15,13.5,5,65,16,114.5,19.08,
+230,Markos Radaios,Greece,0,40,24.0,14,0,35,113.0,18.83,
+230,Taher Ben Jabria,Tunisia,29,40,6.0,22,0,16,113.0,18.83,Honourable Mention
+232,Lazaros Karageorgiou,Greece,29,5,19.5,14,39,6,112.5,18.75,
+233,Blagoj Rujanoski Stojanovski,North Macedonia,29,5,8.0,14,39,16,111.0,18.50,
+233,Brest Lenarčič,Slovenia,43,5,8.0,0,39,16,111.0,18.50,
+235,Jakub Konc,Slovakia,0,30,6.0,0,65,9,110.0,18.33,
+235,Julián Máximo Cabrera,Argentina,0,15,0.0,14,65,16,110.0,18.33,Honourable Mention
+235,Musharraf Shukrulloev,Tajikistan,0,5,18.0,14,39,34,110.0,18.33,Honourable Mention
+238,Elia Soldati,Italy,29,5,6.0,14,39,16,109.0,18.17,
+238,William Rijksen,Netherlands,8,0,6.0,14,65,16,109.0,18.17,Honourable Mention
+240,Abrar Al Samit Araf,Bangladesh,43,5,6.0,14,39,0,107.0,17.83,
+240,Jorge Sebastián Reyes Canul,Mexico,0,40,6.0,22,39,0,107.0,17.83,
+240,Linus Lüchinger,Switzerland,8,5,6.0,0,0,88,107.0,17.83,Honourable Mention
+243,Faruk Ibrahimović,Bosnia and Herzegovina,17,5,24.0,14,39,6,105.0,17.50,
+244,Jamshed Rahimov,Tajikistan,43,5,6.0,5,39,6,104.0,17.33,
+245,Ayushi Mahajan,Ireland,8,15,6.0,9,39,25,102.0,17.00,
+246,Miguel Sáenz,Colombia,8,15,14.0,9,19,34,99.0,16.50,
+247,Ariel Fideleff,Argentina,0,40,6.0,31,0,16,93.0,15.50,
+247,Tiago Sousa,Portugal,43,5,6.0,5,19,15,93.0,15.50,
+249,Florian Siebenförcher,Austria,0,15,18.0,5,0,54,92.0,15.33,
+249,Ronan Legros,France,0,15,24.0,0,19,34,92.0,15.33,
+251,Valters Kalniņš,Latvia,8,15,13.5,0,39,16,91.5,15.25,
+252,Erik Hedin,Sweden,17,40,14.0,0,19,0,90.0,15.00,Honourable Mention
+252,Nicolai Robinson,Denmark,8,5,6.0,0,65,6,90.0,15.00,
+254,Pok Hong Lam,"Macao, China",9,0,1.5,5,39,34,88.5,14.75,
+255,Khizri Sakhrayev,Azerbaijan,8,5,6.0,14,39,16,88.0,14.67,
+255,Marco Antonio Escandón García,Cuba,17,5,6.0,5,39,16,88.0,14.67,
+255,Orazmuhammet Begenjov,Turkmenistan,8,15,6.0,14,39,6,88.0,14.67,
+255,Yuan Li,Ireland,8,5,6.0,14,39,16,88.0,14.67,
+259,Jakob Kapelari,Austria,0,15,13.5,5,0,54,87.5,14.58,
+260,Tomás Faria,Portugal,8,15,6.0,22,19,16,86.0,14.33,
+261,Ivan Zanov,North Macedonia,9,5,18.0,14,39,0,85.0,14.17,
+262,Alejandro Ozymandias Cepeda Beltran,Mexico,8,40,6.0,14,0,16,84.0,14.00,
+262,Gilberto Rodrigo Pierre Gosset Gonzales,Bolivia,8,15,6.0,0,39,16,84.0,14.00,
+264,Theodor Beskow,Sweden,0,0,1.5,0,65,16,82.5,13.75,
+265,Angie Alcantara,Peru,0,15,14.0,14,39,0,82.0,13.67,
+265,Belcar Santiago Cuentas-Zavala Infante,Colombia,9,5,18.0,5,29,16,82.0,13.67,
+267,Antreas Leonidou,Cyprus,8,5,18.0,5,9,35,80.0,13.33,
+267,Hasani Ghulomzoda,Tajikistan,8,5,6.0,22,39,0,80.0,13.33,
+269,Mindiya Karunasinghe,Sri Lanka,8,30,6.0,0,0,35,79.0,13.17,
+270,Alier Sanchez y Sanchez,Mexico,0,5,29.5,0,0,44,78.5,13.08,
+271,Luis Barbosa,Portugal,0,5,14.0,5,19,35,78.0,13.00,
+272,Vadym Kazmin,Luxembourg,0,5,6.0,9,39,16,75.0,12.50,
+273,Alejandro Pineda Miranda,Peru,0,15,6.0,14,39,0,74.0,12.33,
+273,Bianca Vicente,Argentina,8,15,6.0,0,39,6,74.0,12.33,
+275,Diego Emilio Rebollo García,Chile,0,0,18.0,0,39,16,73.0,12.17,
+275,Fernando Andreé González Meléndez,El Salvador,17,5,6.0,0,39,6,73.0,12.17,
+277,Muhammad Shah Khan,South Africa,0,5,1.5,0,65,0,71.5,11.92,
+278,Daniel Holm Rasmussen,Denmark,8,5,1.5,0,39,16,69.5,11.58,
+279,Chi Ho Zheng,"Macao, China",0,30,1.5,0,29,6,66.5,11.08,
+280,Marko Petrovic,Montenegro,0,5,6.0,0,39,16,66.0,11.00,
+280,Youkyum Kim,South Africa,0,0,6.0,5,39,16,66.0,11.00,
+282,Raed Naseer,Jordan,0,15,6.0,5,39,0,65.0,10.83,
+283,Khishigdemberel Bayarkhuu,Mongolia,17,0,14.0,14,19,0,64.0,10.67,
+283,Panagiotis Liampas,Greece,0,15,0.0,14,0,35,64.0,10.67,
+285,Gustas Mickus,Lithuania,0,0,24.0,0,39,0,63.0,10.50,
+286,Isaac Kai Sheng Hew,Malaysia,8,0,0.0,14,39,0,61.0,10.17,
+287,Kirill Zolotuskiy,Iceland,0,15,6.0,22,0,16,59.0,9.83,
+288,Mikhail Skvortsov,Belgium,0,5,18.0,0,19,16,58.0,9.67,
+288,Mohammed Zaid,Palestine,0,5,14.0,0,39,0,58.0,9.67,
+290,Mohammed Wawi,Palestine,8,15,6.0,9,0,16,54.0,9.00,
+291,Ellinor Klara Åhlander,Sweden,8,5,1.5,22,0,16,52.5,8.75,
+292,Eduardo Carranza Vélez,Argentina,17,15,3.5,0,0,16,51.5,8.58,
+292,Matias Felipe Oteiza Vargas,Chile,17,15,13.5,0,0,6,51.5,8.58,
+294,Laura Muliar,Portugal,0,5,6.0,5,10,25,51.0,8.50,
+294,Mouad Oujout,Morocco,0,5,6.0,5,19,16,51.0,8.50,
+294,Ralf Robert Paabo,Estonia,0,5,6.0,5,19,16,51.0,8.50,
+297,Akram El Omrani,Morocco,8,0,9.5,14,19,0,50.5,8.42,
+298,Brian Gabriel Guzmán Navarrete,Ecuador,0,5,6.0,0,39,0,50.0,8.33,
+299,Juri Aljohani,Saudi Arabia,0,5,14.0,14,0,16,49.0,8.17,
+299,Minindu Jayasekara,Sri Lanka,0,15,18.0,0,0,16,49.0,8.17,
+299,Yong Li Neo,Malaysia,8,5,6.0,14,0,16,49.0,8.17,
+302,Rubdary Valentina Rojas Linarez,Venezuela,0,5,18.0,0,19,6,48.0,8.00,
+303,Aleksander Karpov,Estonia,0,15,6.0,0,9,16,46.0,7.67,
+303,Emil Riedeman,Netherlands,0,15,6.0,9,0,16,46.0,7.67,
+303,Kadyr Amangylyjov,Turkmenistan,0,40,6.0,0,0,0,46.0,7.67,
+306,Nejc Mozetič,Slovenia,0,15,14.0,0,0,16,45.0,7.50,
+307,Boas Bakker,Netherlands,0,0,19.5,9,0,16,44.5,7.42,
+308,Anni Tapionlinna,Finland,0,5,6.0,14,19,0,44.0,7.33,
+308,Shamir Leonardo Terán Mustafá,Bolivia,0,5,6.0,14,19,0,44.0,7.33,
+310,Alban Van Vyve,Belgium,0,5,6.0,5,10,16,42.0,7.00,
+311,Camilo Triana Barata,Cuba,8,5,19.5,9,0,0,41.5,6.92,
+312,Hlib Zabudko,Luxembourg,8,0,6.0,0,0,26,40.0,6.67,
+313,Kevin Akkermann,Estonia,0,5,18.0,0,0,16,39.0,6.50,
+314,Shithila Mahabaduge,Sri Lanka,0,15,18.0,5,0,0,38.0,6.33,
+315,Alen Avdibegović,Bosnia and Herzegovina,0,5,6.0,5,9,6,31.0,5.17,
+315,Hamlet Petrosyan,Armenia,0,15,0.0,0,0,16,31.0,5.17,
+317,Mohammed Amine Moutahid,Morocco,0,15,1.5,13,0,0,29.5,4.92,
+318,Diana Huacasi Durand,Peru,0,0,6.0,14,9,0,29.0,4.83,
+319,Matias Francisco Nova Baza,Chile,0,5,1.5,5,0,16,27.5,4.58,
+320,Gabriel Alberto Cruz Nogales,Bolivia,0,5,6.0,0,0,16,27.0,4.50,
+320,Juan Camilo Almanza Gamarra,Colombia,0,5,6.0,0,0,16,27.0,4.50,
+320,Thanh-Viêt Jean Nguyen,Luxembourg,0,5,6.0,0,0,16,27.0,4.50,
+323,César Esaú Flores Martínez,El Salvador,0,5,0.0,5,0,15,25.0,4.17,
+323,Ibrokhim Mukhamadov,Tajikistan,0,5,6.0,14,0,0,25.0,4.17,
+325,Fionn Kimber O'Shea,Ireland,0,5,0.0,0,19,0,24.0,4.00,
+326,Kristinn Hrafn Daníelsson,Iceland,0,0,6.0,0,0,16,22.0,3.67,
+326,Mateo Rivera De La Cueva,Ecuador,0,0,6.0,0,0,16,22.0,3.67,
+326,Róbert Kristian Freysson,Iceland,0,0,6.0,0,0,16,22.0,3.67,
+329,Hans Gustav Kõljalg,Estonia,0,15,6.0,0,0,0,21.0,3.50,
+330,Noé Zech,Belgium,0,5,6.0,9,0,0,20.0,3.33,
+331,Jurabekov Otabek,Uzbekistan,8,0,6.0,5,0,0,19.0,3.17,
+332,Mohammed Atalah,Palestine,0,5,6.0,0,0,6,17.0,2.83,
+333,Luka Kankaraš,Montenegro,0,0,0.0,0,0,16,16.0,2.67,
+333,Muhammad Saad,Jordan,0,0,0.0,0,0,16,16.0,2.67,
+335,Oscar José Pleités Lemus,El Salvador,0,0,6.0,9,0,0,15.0,2.50,
+336,Halymmuhammet Annageldyyev,Turkmenistan,8,5,0.0,0,0,0,13.0,2.17,
+337,Raimond Vargas Hernandez,Dominican Republic,0,5,6.0,0,0,0,11.0,1.83,
+338,Juan David Onofre Florián,Colombia,0,0,0.0,0,9,0,9.0,1.50,
+338,Matias Jimenez Alcocer,Bolivia,0,0,0.0,0,9,0,9.0,1.50,
+340,Josué Arístides Melendez Alemán,El Salvador,0,0,8.0,0,0,0,8.0,1.33,
+341,Jesus Alejandro Duarte Bruzual,Venezuela,0,0,6.0,0,0,0,6.0,1.00,
+341,Juan Diego Marcano Cuellar,Venezuela,0,0,6.0,0,0,0,6.0,1.00,
+343,Alan Adzagic,Montenegro,0,0,0.0,0,0,0,0.0,0.00,
+343,Diana Lantigua Bello,Dominican Republic,0,0,0.0,0,0,0,0.0,0.00,
+343,Didar Choganov,Turkmenistan,0,0,0.0,0,0,0,0.0,0.00,
+343,Diego Enrique Uzcategui Ojeda,Venezuela,0,0,0.0,0,0,0,0.0,0.00,
+343,Leandro Parada,Chile,0,0,0.0,0,0,0,0.0,0.00,
+343,Roberto Valverde Abad,Ecuador,0,0,0.0,0,0,0,0.0,0.00,
+343,Steven Mera,Ecuador,0,0,0.0,0,0,0,0.0,0.00,
+343,Zaid Hanandeh,Jordan,0,0,0.0,0,0,0,0.0,0.00,

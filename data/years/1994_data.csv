@@ -1,0 +1,102 @@
+Rank,Name,Country,Task 1,Task 2,Task 3,Task 4,Task 5,Task 6,Score,Rel_score(%),Award
+1,Victor Bargatchev,Russia,30,30,40,30,25,40,195,97.50,Gold
+2,Walter Hofmann,Germany,30,30,40,30,20,20,170,85.00,Gold
+3,Roman Elizarov,Russia,30,30,30,12,25,40,167,83.50,Gold
+4,Adrian Soviani,Romania,30,30,40,30,15,20,165,82.50,Gold
+4,Gabor Kovacs,Hungary,30,30,30,30,5,40,165,82.50,Gold
+6,Martin Mareš,Czech Republic,30,30,40,12,15,35,162,81.00,Gold
+7,Maxim Kouzmin,Belarus,30,24,40,12,20,35,161,80.50,Gold
+8,Peter Fige,Hungary,30,30,30,30,20,20,160,80.00,Gold
+8,Tianming Huang,China,30,30,40,30,5,25,160,80.00,Gold
+10,Mehul Patel,United States of America,30,30,40,6,20,30,156,78.00,Gold
+10,Seung Il Huh,Republic of Korea,30,30,40,6,10,40,156,78.00,Gold
+12,Tomáš Vinař,Slovakia,30,30,40,30,10,15,155,77.50,Gold
+12,Wanjun Li,China,30,30,20,30,20,25,155,77.50,Gold
+14,Anton Lapunov,Russia,30,30,40,6,15,30,151,75.50,Gold
+14,Thomas Neumann,Germany,30,30,40,6,10,35,151,75.50,Gold
+16,Guangping Gao,China,30,30,20,18,10,40,148,74.00,Gold
+17,Mehdi Foladgar,Iran,30,30,10,30,20,25,145,72.50,Silver
+18,Svetoslav Tzvetkov,Bulgaria,30,30,30,12,10,30,142,71.00,Silver
+19,Jaap Beetstra,Netherlands,30,30,30,6,15,30,141,70.50,Silver
+20,Koh Beng Liang,Singapore,30,24,20,30,20,15,139,69.50,Silver
+21,Tetsushi Ito,Japan,30,24,30,30,5,15,134,67.00,Silver
+22,Peeter Laud,Estonia,30,30,0,30,10,25,125,62.50,Silver
+22,Ping Che Cheng,Taiwan,30,24,30,6,5,30,125,62.50,Silver
+24,Brian Dean,United States of America,30,30,30,6,15,10,121,60.50,Silver
+24,Robert Špalek,Czech Republic,30,30,30,6,5,20,121,60.50,Silver
+24,Saša Stublić,Croatia,30,30,30,6,10,15,121,60.50,Silver
+27,Krzysztof Sobusiak,Poland,30,30,30,0,10,20,120,60.00,Silver
+28,Martin Makúch,Slovakia,30,30,40,12,5,0,117,58.50,Silver
+29,Kun Ho Lee,Republic of Korea,30,30,20,6,5,25,116,58.00,Silver
+30,Ariel Futoransky,Argentina,30,30,0,30,10,15,115,57.50,Silver
+31,Fredrik Schön,Sweden,30,24,20,12,10,15,111,55.50,Silver
+31,Kevin Liu,South Africa,30,30,0,6,20,25,111,55.50,Silver
+33,Alexandru Salcianu,Romania,30,24,10,30,15,0,109,54.50,Silver
+34,Truong Xuan Nam,Vietnam,30,30,0,12,10,25,107,53.50,Silver
+35,Seppo Nyrkkö,Finland,30,24,0,12,20,20,106,53.00,Silver
+35,Tran Minh Chau,Vietnam,30,30,0,6,15,25,106,53.00,Silver
+37,David Kempe,Germany,20,30,0,30,0,25,105,52.50,Silver
+37,Son Bao Pham,Vietnam,30,24,0,6,15,30,105,52.50,Silver
+39,Vitaly Berov,Russia,30,30,0,24,5,15,104,52.00,Silver
+40,Alexei Kirillov,Ukraine,30,30,20,12,0,10,102,51.00,Silver
+40,Brian Shand,South Africa,30,30,0,12,10,20,102,51.00,Silver
+40,Sifaan Zavahir,Sri Lanka,30,0,40,12,10,10,102,51.00,Silver
+43,Daniel Škarda,Czech Republic,30,30,0,6,15,20,101,50.50,Silver
+43,Darrin Petkov,Bulgaria,30,30,10,6,15,10,101,50.50,Silver
+43,Peter Zuffa,Slovakia,30,30,0,6,5,30,101,50.50,Silver
+46,Boris Dimitrov,Bulgaria,30,30,0,30,10,0,100,50.00,Silver
+46,Gintautas Kučas,Lithuania,30,30,0,30,10,0,100,50.00,Silver
+48,Tomas Sakalauskas,Lithuania,30,30,0,12,0,25,97,48.50,Silver
+49,Kengo Matsuyama,Japan,30,30,0,6,10,20,96,48.00,Silver
+49,Mihai Preda,Romania,30,30,30,6,0,0,96,48.00,Silver
+49,Simon Lundin,Sweden,30,30,10,6,0,20,96,48.00,Silver
+52,Hubert Chen,United States of America,30,30,0,30,5,0,95,47.50,Bronze
+52,Jakub Pawlewicz,Poland,30,30,0,30,5,0,95,47.50,Bronze
+52,Xinghua An,China,15,24,10,6,15,25,95,47.50,Bronze
+55,Yashar Ganjali Gavgani,Iran,30,30,0,12,20,0,92,46.00,Bronze
+56,Cao Minh Tri,Vietnam,30,30,0,6,15,10,91,45.50,Bronze
+56,James Ayers,United States of America,30,30,0,6,5,20,91,45.50,Bronze
+58,Kamen Yotov,Bulgaria,30,24,0,6,15,15,90,45.00,Bronze
+59,Egil Hauge,Denmark,30,30,0,24,5,0,89,44.50,Bronze
+60,Balazs Szab,Hungary,15,30,0,30,10,0,85,42.50,Bronze
+60,Sergejs Nagibins,Latvia,30,30,0,0,10,15,85,42.50,Bronze
+62,Boris Pavačić,Croatia,30,24,0,24,5,0,83,41.50,Bronze
+63,Chai Kian Ming,Singapore,30,24,0,12,15,0,81,40.50,Bronze
+63,Ian Miguel García Aranguren,Cuba,30,6,0,30,15,0,81,40.50,Bronze
+63,Marcus Better,Sweden,30,30,0,6,15,0,81,40.50,Bronze
+63,Stefan Rpke,Denmark,30,30,0,6,15,0,81,40.50,Bronze
+63,Stephen Jones,Switzerland,30,30,0,6,15,0,81,40.50,Bronze
+68,Bronislava Brejova,Slovakia,10,30,0,30,10,0,80,40.00,Bronze
+68,Edwin Woudt,Netherlands,15,18,0,12,5,30,80,40.00,Bronze
+70,Linas Medžiūnas,Lithuania,30,24,0,18,5,0,77,38.50,Bronze
+70,Sergio Lerner,Argentina,0,0,40,12,15,10,77,38.50,Bronze
+72,Brian Jones,Ireland,15,30,0,30,0,0,75,37.50,Bronze
+72,Ka Fai Yau,"Hong Kong, China",20,24,0,6,5,20,75,37.50,Bronze
+72,Martin Kralj,Croatia,30,30,0,0,15,0,75,37.50,Bronze
+72,Michał Wala,Poland,0,30,0,30,10,5,75,37.50,Bronze
+72,Petr Novák,Czech Republic,30,30,0,0,15,0,75,37.50,Bronze
+77,Juho Yli-Krekola,Finland,15,18,0,6,15,20,74,37.00,Bronze
+77,Virgil Palanciuc,Romania,30,18,0,6,15,5,74,37.00,Bronze
+79,Bernhard Seefeld,Switzerland,30,30,0,6,5,0,71,35.50,Bronze
+79,Se Hee Park,Republic of Korea,30,30,0,6,5,0,71,35.50,Bronze
+79,Zenin Oganecu Blanco,Cuba,15,24,0,12,20,0,71,35.50,Bronze
+82,Jassada Tanthanuch,Thailand,30,24,0,6,10,0,70,35.00,Bronze
+82,John Leyva,Colombia,30,30,0,0,0,10,70,35.00,Bronze
+82,Tambet Matiisen,Estonia,30,24,0,6,10,0,70,35.00,Bronze
+85,Roman Potsepaev,Ukraine,30,24,0,0,15,0,69,34.50,Bronze
+86,Orkunt Ediz Özkaya,Türkiye,30,12,0,6,20,0,68,34.00,Bronze
+87,Romualdas Dumčius,Lithuania,15,30,0,12,5,5,67,33.50,Bronze
+88,Alexey Baulin,Belarus,30,30,0,6,0,0,66,33.00,Bronze
+88,Chang Hao Tsai,Taiwan,30,0,10,6,15,5,66,33.00,Bronze
+88,Chawalit Machimdamrong,Thailand,30,30,0,6,0,0,66,33.00,Bronze
+88,Goh Hock Meng,Singapore,30,30,0,6,0,0,66,33.00,Bronze
+88,Gustavs Galdiņš,Latvia,15,30,0,6,15,0,66,33.00,Bronze
+88,Kürşat Aker,Türkiye,30,30,0,6,0,0,66,33.00,Bronze
+88,Marek Stocki,Poland,30,6,0,30,0,0,66,33.00,Bronze
+88,Matthias Kppe,Germany,30,30,0,6,0,0,66,33.00,Bronze
+88,Shadi Rostami Hesarsorkh,Iran,30,24,0,12,0,0,66,33.00,Bronze
+88,Toomas Tõnisson,Estonia,30,30,0,6,0,0,66,33.00,Bronze
+98,Chen Fu Huang,Taiwan,30,24,0,6,5,0,65,32.50,Bronze
+98,Diego Bendersky,Argentina,30,30,0,0,5,0,65,32.50,Bronze
+98,Dnes Tarjan,Hungary,15,30,0,0,15,5,65,32.50,Bronze
+98,SonSan Vong,"Macao, China",30,30,0,0,0,5,65,32.50,Bronze
