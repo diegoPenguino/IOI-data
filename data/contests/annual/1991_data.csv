@@ -1,0 +1,75 @@
+Rank,Name,Country,Task_1,Task_2,Task_3,Task_4,Task_5,Task_6,Task_7,Task_8,Score,Rel_score(%),Award
+1,Igor Maly,Czechoslovakia,100,96, , , , , , ,196,98.00,Gold
+2,Yang Cheng,China,99,90, , , , , , ,189,94.50,Gold
+3,Zoltan Turanyi,Hungary,95,92, , , , , , ,187,93.50,Gold
+4,Ranko Lazić,Yugoslavia,99,87, , , , , , ,186,93.00,Gold
+5,Yunhe Yang,China,99,73, , , , , , ,172,86.00,Gold
+6,Svetoslav Bonev,Bulgaria,98,65, , , , , , ,163,81.50,Gold
+7,Jakub Kruszona,Poland,97,53, , , , , , ,150,75.00,Gold
+8,Denis Uvarov,Soviet Union,94,51, , , , , , ,145,72.50,Silver
+9,Andreas Strömbergsson,Sweden,63,78, , , , , , ,141,70.50,Silver
+10,Atsawin Chowanakritsanakul,Thailand,98,40, , , , , , ,138,69.00,Silver
+10,Fredrik Huss,Sweden,97,41, , , , , , ,138,69.00,Silver
+10,Xia Xiyuan,China,98,40, , , , , , ,138,69.00,Silver
+Guest,Hornák Zoltán,Hungary 2,98,39, , , , , , ,137,68.50,Silver
+13,Jacek Chrząszcz,Poland,95,41, , , , , , ,136,68.00,Silver
+13,Matej Ondrusek,Czechoslovakia,99,37, , , , , , ,136,68.00,Silver
+13,Sergey Gershtein,Soviet Union,99,37, , , , , , ,136,68.00,Silver
+13,Stepan Kasal,Czechoslovakia,96,40, , , , , , ,136,68.00,Silver
+17,Olaf Kluge,Germany,95,40, , , , , , ,135,67.50,Silver
+18,Aleksandar Balašev-Samarski,Yugoslavia,97,36, , , , , , ,133,66.50,Silver
+18,Fredrik Hübinette,Sweden,98,35, , , , , , ,133,66.50,Silver
+20,Anton Soukhanov,Soviet Union,93,39, , , , , , ,132,66.00,Silver
+20,Darko Marinov,Yugoslavia,97,35, , , , , , ,132,66.00,Silver
+22,David Walker,United Kingdom,95,36, , , , , , ,131,65.50,Bronze
+23,Andreas Voss,Germany,96,33, , , , , , ,129,64.50,Bronze
+24,Gustavo Massaccesi,Argentina,71,55, , , , , , ,126,63.00,Bronze
+25,Vladimir Svidersky,Belarus,98,27, , , , , , ,125,62.50,Bronze
+26,László Gulyás,Hungary,99,25, , , , , , ,124,62.00,Bronze
+27,Humberto Orgambides del Rosario,Cuba,97,25, , , , , , ,122,61.00,Bronze
+28,Santithorn Bunchua,Thailand,96,25, , , , , , ,121,60.50,Bronze
+29,Edward Sheldon,United Kingdom,96,21, , , , , , ,117,58.50,Bronze
+29,Jacek Pliszka,Poland,97,20, , , , , , ,117,58.50,Bronze
+31,Catalin Dan Voinescu,Romania,91,25, , , , , , ,116,58.00,Bronze
+31,Fabian Braun,Germany,96,20, , , , , , ,116,58.00,Bronze
+31,Mihai-Costin Manolescu,Romania,96,20, , , , , , ,116,58.00,Bronze
+31,Robert Kiss,Hungary,98,18, , , , , , ,116,58.00,Bronze
+35,Phichet Chaoha,Thailand,100,15, , , , , , ,115,57.50,Bronze
+36,Hoa-Binh Nguyen,Vietnam,98,15, , , , , , ,113,56.50,Bronze
+37,Thanasis Chrisos,Greece,73,39, , , , , , ,112,56.00,Bronze
+38,Rubén Ramírez Padrón,Cuba,96,15, , , , , , ,111,55.50,Bronze
+39,Tsvetomir Petrov,Bulgaria,92,18, , , , , , ,110,55.00,Bronze
+Guest,Nikos Tsarbopoulos,Greece 2,98,10, , , , , , ,108,54.00,Bronze
+40,Panagiotis Kalnis,Greece,98,7, , , , , , ,105,52.50,Bronze
+40,Tony Printezis,Greece,98,7, , , , , , ,105,52.50,Bronze
+42,Youlian Manolov,Bulgaria,98,5, , , , , , ,103,51.50,Bronze
+43,Radu Preda,Romania,92,10, , , , , , ,102,51.00,Bronze
+44,Fieke Dekkers,Netherlands,90,11, , , , , , ,101,50.50,Bronze
+44,Hieu Chi Dam,Vietnam,96,5, , , , , , ,101,50.50,Bronze
+46,Alejandro Backer,Argentina,65,33, , , , , , ,98,49.00,
+46,Antony Rix,United Kingdom,76,22, , , , , , ,98,49.00,
+48,Vladimir Belyi,Belarus,86,10, , , , , , ,96,48.00,
+49,Jan Alexander Heimel,Netherlands,89,5, , , , , , ,94,47.00,
+50,Vladimir Kabak,Belarus,65,22, , , , , , ,87,43.50,
+51,Rasiel Gutiérrez Pérez,Cuba,72,13, , , , , , ,85,42.50,
+52,Le Van Tri,Vietnam,65,17, , , , , , ,82,41.00,
+53,Sigve Haug,Norway,72,5, , , , , , ,77,38.50,
+54,Giovanni Gogliettino,Italy,71,5, , , , , , ,76,38.00,
+55,George Kyrou,Cyprus,70,5, , , , , , ,75,37.50,
+56,Tsogbadrakh Surenjargal,Mongolia,64,5, , , , , , ,69,34.50,
+57,Mariano E Barcia,Argentina,15,34, , , , , , ,49,24.50,
+58,Kees-Jan van der Kolk,Netherlands,20,12, , , , , , ,32,16.00,
+59,Constantinos Scordis,Cyprus,10,10, , , , , , ,20,10.00,
+59,Giuliano Denicolo,Italy,15,5, , , , , , ,20,10.00,
+61,Joseph Adegbesan,Nigeria,10,9, , , , , , ,19,9.50,
+62,Imo Etuk,Nigeria,10,8, , , , , , ,18,9.00,
+63,Andreas Manoli,Cyprus,10,5, , , , , , ,15,7.50,
+63,Chinelo Ezeh,Nigeria,10,5, , , , , , ,15,7.50,
+63,Geir Holmgren,Norway,10,5, , , , , , ,15,7.50,
+63,Jadambaagiin Delgersaihan,Mongolia,10,5, , , , , , ,15,7.50,
+63,Kjetil Boe,Norway,10,5, , , , , , ,15,7.50,
+63,Luca Giustiniani,Italy,10,5, , , , , , ,15,7.50,
+Guest,Aristidis Harbis,Greece 2,10,5, , , , , , ,15,7.50,
+Guest,Dimitris Vasiliadis,Greece 2,10,5, , , , , , ,15,7.50,
+Guest,Tasos Tsiboukelis,Greece 2,10,5, , , , , , ,15,7.50,
+Guest,Alexis Chouchoulas,Greece 2,0,5, , , , , , ,5,2.50,

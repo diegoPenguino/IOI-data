@@ -1,0 +1,137 @@
+Rank,Name,Country,Task_1,Task_2,Task_3,Task_4,Task_5,Task_6,Task_7,Task_8,Score,Rel_score(%),Award
+1,Reid Barton,United States of America, , , , , , , , ,580,96.67,Gold
+2,Mihai Patrascu,Romania, , , , , , , , ,525,87.50,Gold
+3,Ziqing Mao,China, , , , , , , , ,485,80.83,Gold
+4,Daniel Jasper,Germany, , , , , , , , ,470,78.33,Gold
+5,Andrey Rumyantsev,Russia, , , , , , , , ,462,77.00,Gold
+6,Bruce Merry,South Africa, , , , , , , , ,445,74.17,Gold
+7,Teemu Murtola,Finland, , , , , , , , ,441,73.50,Gold
+8,David Zhang,Canada, , , , , , , , ,439,73.17,Gold
+9,Wan Yeong Jung,Republic of Korea, , , , , , , , ,430,71.67,Gold
+10,Richard Gregory Smith,United Kingdom, , , , , , , , ,427,71.17,Gold
+11,Tomasz Malesinski,Poland, , , , , , , , ,422,70.33,Gold
+12,Ján Oravec,Slovakia, , , , , , , , ,420,70.00,Gold
+13,Nabil Christopher Moh Heng Ping,Singapore, , , , , , , , ,417,69.50,Gold
+14,Velin Tzanov,Bulgaria, , , , , , , , ,416,69.33,Gold
+15,Marián Dvorský,Slovakia, , , , , , , , ,415,69.17,Gold
+15,Roie Marianer,Israel, , , , , , , , ,415,69.17,Gold
+17,Martin Pettai,Estonia, , , , , , , , ,413,68.83,Gold
+18,Zhivko Ganev,Bulgaria, , , , , , , , ,407,67.83,Gold
+19,Mohamad-Hadi Fouroghmand Aarabi,Iran, , , , , , , , ,394,65.67,Gold
+20,Nayana Somaratna,Sri Lanka, , , , , , , , ,390,65.00,Gold
+21,Dong Jin Lee,Republic of Korea, , , , , , , , ,386,64.33,Gold
+21,Tay Kah Keng,Singapore, , , , , , , , ,386,64.33,Gold
+23,Vlad Dascalu,Romania, , , , , , , , ,378,63.00,Gold
+24,Jurgis Pašukonis,Lithuania, , , , , , , , ,376,62.67,Silver
+25,Frane Saric,Croatia, , , , , , , , ,375,62.50,Silver
+25,Tom Widland,United States of America, , , , , , , , ,375,62.50,Silver
+27,Yair Chuchem,Israel, , , , , , , , ,374,62.33,Silver
+28,Mika Pruikkonen,Finland, , , , , , , , ,373,62.17,Silver
+28,Thanh Hoai Tran,Vietnam, , , , , , , , ,373,62.17,Silver
+30,Paweł Parys,Poland, , , , , , , , ,370,61.67,Silver
+31,Pablo Dal Lago,Argentina, , , , , , , , ,363,60.50,Silver
+32,Damir Tubin,Croatia, , , , , , , , ,362,60.33,Silver
+33,Ádám Ritter,Hungary, , , , , , , , ,360,60.00,Silver
+34,Bjarke Roune,Denmark, , , , , , , , ,353,58.83,Silver
+35,Johan Heinrich Du Toit,South Africa, , , , , , , , ,351,58.50,Silver
+36,Pavel Čížek,Czech Republic, , , , , , , , ,344,57.33,Silver
+37,Mateusz Kwaśnicki,Poland, , , , , , , , ,343,57.17,Silver
+38,Tomáš Záthurecký,Slovakia, , , , , , , , ,338,56.33,Silver
+39,Ádám Novák,Hungary, , , , , , , , ,330,55.00,Silver
+40,Jozef Tvarožek,Slovakia, , , , , , , , ,329,54.83,Silver
+40,Nicholas Krempel,United Kingdom, , , , , , , , ,329,54.83,Silver
+42,Ģirts Folkmanis,Latvia, , , , , , , , ,324,54.00,Silver
+43,Petko Minkov,Bulgaria, , , , , , , , ,322,53.67,Silver
+44,Ngoc Nguyen Phuong,Vietnam, , , , , , , , ,321,53.50,Silver
+45,Michael Siepmann,Germany, , , , , , , , ,320,53.33,Silver
+45,Roman Pastoukhov,Russia, , , , , , , , ,320,53.33,Silver
+47,Tay Kah Seng,Singapore, , , , , , , , ,319,53.17,Silver
+48,Vladimir Novakovski,United States of America, , , , , , , , ,315,52.50,Silver
+49,Fredrik Jansson,Finland, , , , , , , , ,313,52.17,Silver
+50,Nuttapong Chentanez,Thailand, , , , , , , , ,312,52.00,Silver
+51,Wenjie Fu,China, , , , , , , , ,305,50.83,Silver
+52,Ji Won Kim,Republic of Korea, , , , , , , , ,299,49.83,Silver
+53,Chiu Jiawei,Singapore, , , , , , , , ,297,49.50,Silver
+53,Duc Viet Dung Hoang,Vietnam, , , , , , , , ,297,49.50,Silver
+55,Mugurel-Ionut Andreica,Romania, , , , , , , , ,296,49.33,Silver
+55,Quang Khai Tran,Vietnam, , , , , , , , ,296,49.33,Silver
+57,Ioannis Tsoukalidis,Greece, , , , , , , , ,295,49.17,Silver
+58,Ji Luo,China, , , , , , , , ,294,49.00,Silver
+59,Chi Yung Tse,"Hong Kong, China", , , , , , , , ,292,48.67,Silver
+60,Harshana Dantanarayana,Sri Lanka, , , , , , , , ,291,48.50,Silver
+61,Lukas Stadler,Austria, , , , , , , , ,289,48.17,Silver
+62,Davi Tassinari de Figueiredo,Brazil, , , , , , , , ,288,48.00,Silver
+63,Yi-hao Kao,Taiwan, , , , , , , , ,283,47.17,Silver
+64,Mehran Heidarzadeh,Iran, , , , , , , , ,279,46.50,Silver
+65,Petr Mitritchev,Russia, , , , , , , , ,277,46.17,Silver
+66,Tamás Földényi,Hungary, , , , , , , , ,270,45.00,Silver
+67,Ivan Miatselski,Belarus, , , , , , , , ,268,44.67,Silver
+68,Olli-Pentti Saira,Finland, , , , , , , , ,266,44.33,Silver
+69,Dumitru Codreanu,Moldova, , , , , , , , ,264,44.00,Bronze
+70,Peerapong Dhangwatnotai,Thailand, , , , , , , , ,262,43.67,Bronze
+71,Ariel Gutman,Israel, , , , , , , , ,260,43.33,Bronze
+71,Vladimirs Redjko,Latvia, , , , , , , , ,260,43.33,Bronze
+73,Jin Ho Kim,Republic of Korea, , , , , , , , ,258,43.00,Bronze
+74,David Burburan,Australia, , , , , , , , ,254,42.33,Bronze
+75,Chun-Hung Hsiao,Taiwan, , , , , , , , ,252,42.00,Bronze
+75,Mikhail Svaricheuski,Belarus, , , , , , , , ,252,42.00,Bronze
+77,Daniel Andersson,Sweden, , , , , , , , ,251,41.83,Bronze
+77,Martynas Kriaučiūnas,Lithuania, , , , , , , , ,251,41.83,Bronze
+77,Sama Goliaei,Iran, , , , , , , , ,251,41.83,Bronze
+80,Benjamin Dittes,Germany, , , , , , , , ,246,41.00,Bronze
+80,Tobias Polley,Germany, , , , , , , , ,246,41.00,Bronze
+82,Viktor Surohin,Ukraine, , , , , , , , ,245,40.83,Bronze
+83,Andriy Sereda,Ukraine, , , , , , , , ,240,40.00,Bronze
+84,Miloslav Trmač,Czech Republic, , , , , , , , ,237,39.50,Bronze
+84,Roland Schatz,Austria, , , , , , , , ,237,39.50,Bronze
+86,Widagdo Setiawan,Indonesia, , , , , , , , ,234,39.00,Bronze
+87,Sunsern Cheamanunkul,Thailand, , , , , , , , ,228,38.00,Bronze
+88,Michel Conrad,Luxembourg, , , , , , , , ,227,37.83,Bronze
+89,Ludwig Leonard Méndez,Cuba, , , , , , , , ,226,37.67,Bronze
+90,Myhailo Rybak,Ukraine, , , , , , , , ,225,37.50,Bronze
+90,Saeed Alaei,Iran, , , , , , , , ,225,37.50,Bronze
+92,Carl Nettelblad,Sweden, , , , , , , , ,222,37.00,Bronze
+93,Petro Luferenko,Ukraine, , , , , , , , ,220,36.67,Bronze
+94,Nurzhan Bakibayev,Kazakhstan, , , , , , , , ,217,36.17,Bronze
+95,Adam Kerz,Australia, , , , , , , , ,216,36.00,Bronze
+96,Archil Tsiskaridze,Georgia, , , , , , , , ,212,35.33,Bronze
+97,Guillaume Ryder,France, , , , , , , , ,209,34.83,Bronze
+98,Mladen Kolar,Croatia, , , , , , , , ,199,33.17,Bronze
+99,Ervīns Bebris,Latvia, , , , , , , , ,198,33.00,Bronze
+100,Marek Sulovský,Czech Republic, , , , , , , , ,197,32.83,Bronze
+101,Kanat Tangwongsan,Thailand, , , , , , , , ,196,32.67,Bronze
+101,Kristo Tammeoja,Estonia, , , , , , , , ,196,32.67,Bronze
+103,Robin Håkansson,Sweden, , , , , , , , ,195,32.50,Bronze
+104,Jacob Kroon,South Africa, , , , , , , , ,192,32.00,Bronze
+105,Antanas Kompanas,Lithuania, , , , , , , , ,191,31.83,Bronze
+106,Ivars Atteka,Latvia, , , , , , , , ,188,31.33,Bronze
+106,Semen Shkilevich,Kazakhstan, , , , , , , , ,188,31.33,Bronze
+108,Bram Kuijvenhoven,Netherlands, , , , , , , , ,186,31.00,Bronze
+109,Børge Mikkelsen,Norway, , , , , , , , ,185,30.83,Bronze
+109,Zviad Metreveli,Georgia, , , , , , , , ,185,30.83,Bronze
+111,Boris Cukalovic,Serbia and Montenegro, , , , , , , , ,184,30.67,Bronze
+112,Ivan Sikiric,Croatia, , , , , , , , ,183,30.50,Bronze
+113,Karol Cwalina,Poland, , , , , , , , ,180,30.00,Bronze
+113,Şemsi Cihan Yücel,Türkiye, , , , , , , , ,180,30.00,Bronze
+115,Aleksandar Zlateski,Serbia and Montenegro, , , , , , , , ,177,29.50,Bronze
+116,İzzet Çağrı Baykan,Türkiye, , , , , , , , ,174,29.00,Bronze
+117,Steven Sivek,United States of America, , , , , , , , ,173,28.83,Bronze
+117,Yuan Li,China, , , , , , , , ,173,28.83,Bronze
+119,Cameron Patrick,Australia, , , , , , , , ,171,28.50,Bronze
+120,Nikolay Nikolov,Bulgaria, , , , , , , , ,169,28.17,Bronze
+121,Petr Kalinin,Russia, , , , , , , , ,168,28.00,Bronze
+122,Xin Zheng,Trinidad and Tobago, , , , , , , , ,167,27.83,Bronze
+123,Daniel Küttel,Switzerland, , , , , , , , ,165,27.50,Bronze
+123,Wilke van der Schee,Netherlands, , , , , , , , ,165,27.50,Bronze
+125,Hendrik Nigul,Estonia, , , , , , , , ,163,27.17,Bronze
+126,Eduardo Pereira Habkost,Brazil, , , , , , , , ,162,27.00,Bronze
+127,Sedat Gökalp,Türkiye, , , , , , , , ,159,26.50,Bronze
+128,Corneliu Margine,Moldova, , , , , , , , ,157,26.17,Bronze
+129,Andras Csaba,Romania, , , , , , , , ,154,25.67,Bronze
+130,Alessandro Maconi,Italy, , , , , , , , ,153,25.50,Bronze
+131,Pramila Ariyaratne,Sri Lanka, , , , , , , , ,152,25.33,Bronze
+132,Ronny López Trujillo,Cuba, , , , , , , , ,151,25.17,Bronze
+133,Ruari O'Sullivan,United Kingdom, , , , , , , , ,149,24.83,Bronze
+134,Constantin Jucovschi,Moldova, , , , , , , , ,145,24.17,Bronze
+135,Siarhei Salnikau,Belarus, , , , , , , , ,144,24.00,Bronze
+136,Leandro Groisman,Argentina, , , , , , , , ,143,23.83,Bronze

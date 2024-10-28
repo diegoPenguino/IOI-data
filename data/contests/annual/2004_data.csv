@@ -1,0 +1,296 @@
+Rank,Name,Country,Task_1,Task_2,Task_3,Task_4,Task_5,Task_6,Task_7,Task_8,Score,Rel_score(%),Award
+1,Paul Jefferys,United Kingdom,80,100,90,100,100,95, , ,565,94.17,Gold
+2,Weidong Hu,China,90,100,80,95,95,100, , ,560,93.33,Gold
+3,Tiancheng Lou,China,100,100,30,100,100,100, , ,530,88.33,Gold
+4,Bartłomiej Romański,Poland,100,100,20,100,100,100, , ,520,86.67,Gold
+4,Shi Li,China,95,100,30,95,100,100, , ,520,86.67,Gold
+6,Brian Jacokes,United States of America,80,100,90,95,50,100, , ,515,85.83,Gold
+6,Luka Kalinovčić,Croatia,80,100,40,95,100,100, , ,515,85.83,Gold
+8,Lovro Pužar,Croatia,85,95,30,95,100,100, , ,505,84.17,Gold
+8,Vasan Chienmaneetaweesin,Thailand,80,100,30,95,100,100, , ,505,84.17,Gold
+10,Kirill Batuzov,Russia,60,100,40,95,100,100, , ,495,82.50,Gold
+11,Evgeny Shavlugin,Russia,80,95,30,85,95,100, , ,485,80.83,Gold
+12,Daniel Chia Jin Hao,Singapore,75,100,10,95,100,100, , ,480,80.00,Gold
+13,Anders Kaseorg,United States of America,50,100,100,100,100,25, , ,475,79.17,Gold
+13,Filip Wolski,Poland,95,45,40,100,95,100, , ,475,79.17,Gold
+13,Richard Starfield,South Africa,80,100,10,85,100,100, , ,475,79.17,Gold
+13,Rong Ge,China,35,90,50,100,100,100, , ,475,79.17,Gold
+17,Alexandra Zykova,Russia,40,95,30,95,100,100, , ,460,76.67,Gold
+17,Do Kyoung Lee,Republic of Korea,85,90,0,95,90,100, , ,460,76.67,Gold
+17,Shayan Oveis Gharan,Iran,70,95,20,95,100,80, , ,460,76.67,Gold
+17,Varuna Parinda Jayasiri,Sri Lanka,70,100,10,85,100,95, , ,460,76.67,Gold
+21,Silviu Ganceanu,Romania,75,100,0,80,100,100, , ,455,75.83,Gold
+21,Thomas Fersch,Germany,65,95,0,95,100,100, , ,455,75.83,Gold
+23,Sander Land,Netherlands,55,100,0,95,100,100, , ,450,75.00,Gold
+24,Luca Barbieri,Italy,85,35,30,95,100,100, , ,445,74.17,Gold
+24,Vitaly Goldshteyn,Russia,85,100,0,100,60,100, , ,445,74.17,Gold
+24,Vladimir Nedev,Bulgaria,80,100,0,100,100,65, , ,445,74.17,Gold
+27,Pham Xuan Hoa,Vietnam,50,95,20,95,100,80, , ,440,73.33,Silver
+28,Eric Price,United States of America,25,100,70,100,40,100, , ,435,72.50,Silver
+28,Mark Thompson,United Kingdom,40,100,30,95,70,100, , ,435,72.50,Silver
+30,František Simančík,Slovakia,25,90,80,100,100,35, , ,430,71.67,Silver
+30,Jonathan Mosheiff,Israel,30,100,10,90,100,100, , ,430,71.67,Silver
+30,Prachaya Phaisanwiphatpong,Thailand,95,95,10,50,100,80, , ,430,71.67,Silver
+33,Adam Bull,United Kingdom,80,50,50,95,60,90, , ,425,70.83,Silver
+33,Dzmitry Khusainau,Belarus,45,75,10,95,100,100, , ,425,70.83,Silver
+33,Zhanibek Datbayev,Kazakhstan,90,90,0,95,100,50, , ,425,70.83,Silver
+36,Alex Schwendner,United States of America,0,100,20,100,100,100, , ,420,70.00,Silver
+36,Richard Peng,Canada,55,50,40,95,85,95, , ,420,70.00,Silver
+36,Tamas Hubai,Hungary,25,95,40,60,100,100, , ,420,70.00,Silver
+36,Uladzimir Kerus,Belarus,100,50,10,70,100,90, , ,420,70.00,Silver
+40,Aidin Nassiri Shargh,Iran,70,100,10,95,95,45, , ,415,69.17,Silver
+40,Artūrs Verza,Latvia,60,100,10,45,100,100, , ,415,69.17,Silver
+40,Jakub Łącki,Poland,20,80,20,95,100,100, , ,415,69.17,Silver
+40,Zviad Metreveli,Georgia,95,45,10,85,85,95, , ,415,69.17,Silver
+44,Dan-Leonard  Crestez,Romania,35,100,20,100,55,100, , ,410,68.33,Silver
+44,Seyed Hossein Kaffash Bokharaei,Iran,40,100,30,80,60,100, , ,410,68.33,Silver
+44,Yong Woon Cho,Republic of Korea,45,80,0,100,85,100, , ,410,68.33,Silver
+47,Ka Cheong Lui,"Hong Kong, China",40,95,0,95,75,100, , ,405,67.50,Silver
+48,Martin Orr,Ireland,85,100,10,5,100,100, , ,400,66.67,Silver
+48,Rangel Dokov,Bulgaria,50,90,10,55,95,100, , ,400,66.67,Silver
+48,Sergejs Pogorelovs,Latvia,60,80,30,30,100,100, , ,400,66.67,Silver
+51,Miroslav Baláž,Slovakia,25,85,0,95,100,90, , ,395,65.83,Silver
+52,Daniel Rodríguez Sánchez,Cuba,35,90,0,95,70,100, , ,390,65.00,Silver
+52,Hsu-Chieh Lee,Taiwan,75,50,40,80,50,95, , ,390,65.00,Silver
+52,Tien-Ren Chen,Taiwan,50,100,50,60,30,100, , ,390,65.00,Silver
+55,Adrian-Valentin Vladu,Romania,95,85,0,55,100,50, , ,385,64.17,Silver
+55,Chen Xing,Sweden,20,100,10,95,60,100, , ,385,64.17,Silver
+55,Harpreet Singh,India,40,100,0,95,100,50, , ,385,64.17,Silver
+55,Igor Kabiljo,Serbia and Montenegro,15,100,40,30,100,100, , ,385,64.17,Silver
+55,Sergiy Goncharenko,Ukraine,60,85,50,55,95,40, , ,385,64.17,Silver
+60,Jaan Vajakas,Estonia,0,100,0,90,95,95, , ,380,63.33,Silver
+60,Pāvels Andrejevs,Latvia,80,50,0,95,65,90, , ,380,63.33,Silver
+62,Bela Racz,Hungary,40,95,30,10,100,100, , ,375,62.50,Silver
+62,David Santoso Anggakusuma,Indonesia,40,75,20,95,95,50, , ,375,62.50,Silver
+62,Hakan Yıldız,Türkiye,65,30,10,75,100,95, , ,375,62.50,Silver
+62,Hoo Yeon Lee,Republic of Korea,50,80,0,75,70,100, , ,375,62.50,Silver
+62,Valentin Mihov,Bulgaria,95,100,10,50,100,20, , ,375,62.50,Silver
+67,Derianto Kusuma,Indonesia,40,85,10,55,85,95, , ,370,61.67,Silver
+67,Ignas Budvytis,Lithuania,70,95,10,95,10,90, , ,370,61.67,Silver
+67,Mattias Linnap,Estonia,50,60,10,60,95,95, , ,370,61.67,Silver
+67,Petr Škoda,Czech Republic,65,70,40,95,0,100, , ,370,61.67,Silver
+67,Seyed Alborz Mazloomian,Iran,60,95,10,65,100,40, , ,370,61.67,Silver
+67,Svetoslav Kolev,Bulgaria,55,95,40,50,85,45, , ,370,61.67,Silver
+73,Daniel Marek,Czech Republic,10,100,10,90,100,55, , ,365,60.83,Silver
+73,Laur Tooming,Estonia,75,50,30,100,100,10, , ,365,60.83,Silver
+73,Pavel Sakau,Belarus,60,95,0,50,60,100, , ,365,60.83,Silver
+76,Mahmut Sami Taş,Türkiye,75,40,0,100,60,85, , ,360,60.00,Bronze
+76,Peter Perešíni,Slovakia,20,55,0,95,100,90, , ,360,60.00,Bronze
+76,Syrymbet Iskakov,Kazakhstan,70,60,0,95,35,100, , ,360,60.00,Bronze
+79,Chethiya Abeysinghe,Sri Lanka,85,85,10,10,70,95, , ,355,59.17,Bronze
+79,Mehdi Bouaziz,France,80,35,30,25,100,85, , ,355,59.17,Bronze
+79,Pham Huu Thanh,Vietnam,0,85,0,95,85,90, , ,355,59.17,Bronze
+82,Aidin Kashigar,Canada,10,95,30,55,60,100, , ,350,58.33,Bronze
+82,Chun-Ta Lin,Taiwan,60,30,40,55,65,100, , ,350,58.33,Bronze
+82,Shreevatsa Rajagopalan,India,55,35,20,55,100,85, , ,350,58.33,Bronze
+85,Amitay Kamber,Israel,20,100,20,65,85,55, , ,345,57.50,Bronze
+85,Andrian Kurniady,Indonesia,0,100,10,95,90,50, , ,345,57.50,Bronze
+85,Martin Joerg,Austria,60,50,0,95,90,50, , ,345,57.50,Bronze
+85,Sorin Stancu-Mara,Romania,20,100,40,10,100,75, , ,345,57.50,Bronze
+85,Ville Mäkynen,Finland,90,80,0,55,100,20, , ,345,57.50,Bronze
+90,Oren Becker,Israel,80,100,0,60,30,70, , ,340,56.67,Bronze
+91,Andriy Grynenko,Ukraine,0,100,0,95,95,45, , ,335,55.83,Bronze
+91,Constantin Dolghier,Moldova,85,70,0,80,50,50, , ,335,55.83,Bronze
+91,Tam Wai Lun,Singapore,65,50,20,95,70,35, , ,335,55.83,Bronze
+91,Vahe Musoyan,Armenia,95,15,30,50,100,45, , ,335,55.83,Bronze
+95,Felix Arends,Germany,75,15,20,80,55,85, , ,330,55.00,Bronze
+95,Matias Holte,Norway,0,15,30,95,100,90, , ,330,55.00,Bronze
+95,Nguyen Duy Khuong,Vietnam,35,95,0,0,100,100, , ,330,55.00,Bronze
+98,Chanin Laohaphan,Thailand,100,50,30,0,100,45, , ,325,54.17,Bronze
+98,Constantin Jucovschi,Moldova,35,100,0,100,45,45, , ,325,54.17,Bronze
+98,Dumitru Ciubatii,Moldova,95,15,10,35,75,95, , ,325,54.17,Bronze
+98,Tomasz Kuras,Poland,70,60,40,55,0,100, , ,325,54.17,Bronze
+102,Fábio Dias Moreira,Brazil,25,100,20,40,100,35, , ,320,53.33,Bronze
+102,Harshana Dantanarayana,Sri Lanka,40,90,0,0,100,90, , ,320,53.33,Bronze
+102,Le Manh Ha,Vietnam,5,30,10,95,85,95, , ,320,53.33,Bronze
+102,Samuel Berner,Switzerland,10,15,0,95,100,100, , ,320,53.33,Bronze
+102,Wilke van der Schee,Netherlands,25,95,20,10,70,100, , ,320,53.33,Bronze
+102,Yuriy Znovyak,Ukraine,30,55,10,95,95,35, , ,320,53.33,Bronze
+108,Steven te Brinke,Netherlands,90,55,20,0,50,95, , ,310,51.67,Bronze
+109,Dario Cazzaro,Italy,70,50,20,30,100,35, , ,305,50.83,Bronze
+109,Erik Panzer,Germany,0,45,10,90,60,100, , ,305,50.83,Bronze
+109,Kshitij Bansal,India,10,95,0,50,100,50, , ,305,50.83,Bronze
+109,Kwong Fai Tsang,"Hong Kong, China",60,55,40,60,40,50, , ,305,50.83,Bronze
+109,Marek Ludha,Slovakia,45,50,40,30,50,90, , ,305,50.83,Bronze
+109,Vilius Naudžiūnas,Lithuania,0,95,10,0,100,100, , ,305,50.83,Bronze
+115,Danica Porobic,Serbia and Montenegro,10,50,30,10,100,100, , ,300,50.00,Bronze
+115,Mitja Trampus,Slovenia,40,65,0,30,65,100, , ,300,50.00,Bronze
+115,Raphael Henrique Ribas,Brazil,40,0,60,10,100,90, , ,300,50.00,Bronze
+115,Raúl Delgado de la Cruz,Cuba,50,85,0,50,75,40, , ,300,50.00,Bronze
+115,Thomas Wuerthinger,Austria,0,50,0,85,70,95, , ,300,50.00,Bronze
+115,Vishvajit Singh,Canada,80,35,10,40,85,50, , ,300,50.00,Bronze
+121,Karim Jouini,Tunisia,30,60,10,95,70,30, , ,295,49.17,Bronze
+121,Maksud Ibrahimov,Azerbaijan,80,20,20,55,30,90, , ,295,49.17,Bronze
+121,Yehonatan Rozenshein,Israel,10,50,10,95,35,95, , ,295,49.17,Bronze
+124,Irakli Khomeriki,Georgia,15,95,10,10,60,100, , ,290,48.33,Bronze
+124,Joaquin Rodrigues,Argentina,40,10,10,95,100,35, , ,290,48.33,Bronze
+124,Oļegs Urziks,Latvia,35,95,0,25,100,35, , ,290,48.33,Bronze
+124,Simon Parent,Canada,20,50,30,95,50,45, , ,290,48.33,Bronze
+124,Vladimir Serbinenko,Switzerland,95,20,0,25,100,50, , ,290,48.33,Bronze
+129,Sandaruwan Gunathilake,Sri Lanka,30,80,20,50,60,45, , ,285,47.50,Bronze
+130,Alessandro Piva,Italy,20,50,10,50,100,50, , ,280,46.67,Bronze
+130,Atanas Atanasov,Malta,35,20,30,50,55,90, , ,280,46.67,Bronze
+130,Christian Kauth,Luxembourg,30,10,0,95,65,80, , ,280,46.67,Bronze
+130,Gergely Tassy,Hungary,30,10,40,35,70,95, , ,280,46.67,Bronze
+134,Anak Yodpinyanee,Thailand,10,100,0,15,100,50, , ,275,45.83,Bronze
+134,Christian Ebke,Germany,95,100,0,5,30,45, , ,275,45.83,Bronze
+134,Lucien Pech,France,55,95,20,10,60,35, , ,275,45.83,Bronze
+134,Luka Dondjivic,Croatia,25,90,0,60,35,65, , ,275,45.83,Bronze
+134,Salamat Nuraliyev,Kazakhstan,30,35,10,95,35,70, , ,275,45.83,Bronze
+134,Yi Chen,Taiwan,0,40,50,65,70,50, , ,275,45.83,Bronze
+140,Linas Petrauskas,Lithuania,65,50,0,40,70,45, , ,270,45.00,Bronze
+140,Marius Andra,Estonia,65,10,10,45,50,90, , ,270,45.00,Bronze
+140,Nicolas Bonifas,France,20,100,30,5,90,25, , ,270,45.00,Bronze
+143,Aleksey Baryshnikov,Kyrgyzstan,10,30,10,95,90,30, , ,265,44.17,Bronze
+143,Giorgio Audrito,Italy,80,50,0,5,30,100, , ,265,44.17,Bronze
+143,Leo Hatvani,Bosnia and Herzegovina,45,50,0,90,40,40, , ,265,44.17,Bronze
+143,Nam Lei,"Macao, China",60,35,10,10,100,50, , ,265,44.17,Bronze
+147,,No country,60,50,0,85,50,15, , ,260,43.33,
+147,,No country,30,80,10,30,60,50, , ,260,43.33,
+147,,No country,60,75,40,15,40,30, , ,260,43.33,
+150,,No country,15,25,0,20,95,100, , ,255,42.50,
+150,,No country,75,5,0,55,100,20, , ,255,42.50,
+150,,No country,55,45,0,5,55,95, , ,255,42.50,
+150,,No country,15,90,0,15,65,70, , ,255,42.50,
+150,,No country,45,50,0,10,55,95, , ,255,42.50,
+155,,No country,75,15,0,45,100,15, , ,250,41.67,
+156,,No country,40,10,0,50,45,100, , ,245,40.83,
+156,,No country,35,100,0,25,50,35, , ,245,40.83,
+158,,No country,5,50,10,20,65,90, , ,240,40.00,
+158,,No country,85,0,0,55,0,100, , ,240,40.00,
+158,,No country,0,100,0,15,55,70, , ,240,40.00,
+158,,No country,70,30,0,90,50,0, , ,240,40.00,
+158,,No country,60,10,0,0,100,70, , ,240,40.00,
+163,,No country,55,15,0,95,50,20, , ,235,39.17,
+164,,No country,65,50,0,0,30,85, , ,230,38.33,
+164,,No country,0,0,0,90,45,95, , ,230,38.33,
+164,,No country,55,30,0,95,30,20, , ,230,38.33,
+167,,No country,0,50,0,75,75,25, , ,225,37.50,
+168,,No country,0,50,30,95,0,45, , ,220,36.67,
+168,,No country,5,50,0,40,100,25, , ,220,36.67,
+168,,No country,10,50,20,50,60,30, , ,220,36.67,
+168,,No country,30,0,0,95,0,95, , ,220,36.67,
+168,,No country,80,50,10,50,0,30, , ,220,36.67,
+168,,No country,60,90,10,5,5,50, , ,220,36.67,
+174,,No country,50,10,0,5,50,100, , ,215,35.83,
+174,,No country,25,5,10,0,75,100, , ,215,35.83,
+174,,No country,45,30,30,40,40,30, , ,215,35.83,
+174,,No country,60,50,0,15,55,35, , ,215,35.83,
+174,,No country,20,50,0,50,50,45, , ,215,35.83,
+174,,No country,0,100,20,40,25,30, , ,215,35.83,
+174,,No country,55,50,20,10,60,20, , ,215,35.83,
+174,,No country,0,60,10,10,35,100, , ,215,35.83,
+174,,No country,10,50,0,15,100,40, , ,215,35.83,
+174,,No country,30,55,0,5,100,25, , ,215,35.83,
+184,,No country,35,35,0,50,50,40, , ,210,35.00,
+184,,No country,25,100,10,5,45,25, , ,210,35.00,
+184,,No country,20,60,30,35,15,50, , ,210,35.00,
+187,,No country,10,50,10,10,100,20, , ,200,33.33,
+187,,No country,30,45,20,30,50,25, , ,200,33.33,
+187,,No country,60,50,0,0,0,90, , ,200,33.33,
+187,,No country,40,0,0,95,35,30, , ,200,33.33,
+187,,No country,10,50,0,50,30,60, , ,200,33.33,
+192,,No country,40,50,10,0,60,35, , ,195,32.50,
+192,,No country,40,35,0,5,25,90, , ,195,32.50,
+192,,No country,55,50,0,15,0,75, , ,195,32.50,
+192,,No country,40,50,0,10,55,40, , ,195,32.50,
+192,,No country,15,50,0,0,30,100, , ,195,32.50,
+192,,No country,65,50,20,5,25,30, , ,195,32.50,
+192,,No country,50,50,0,70,0,25, , ,195,32.50,
+199,,No country,30,35,0,0,100,25, , ,190,31.67,
+199,,No country,45,25,0,25,55,40, , ,190,31.67,
+199,,No country,0,65,20,40,30,35, , ,190,31.67,
+202,,No country,30,50,0,50,30,25, , ,185,30.83,
+202,,No country,20,50,0,50,40,25, , ,185,30.83,
+202,,No country,55,5,10,95,10,10, , ,185,30.83,
+205,,No country,95,25,0,10,20,30, , ,180,30.00,
+205,,No country,10,25,20,0,100,25, , ,180,30.00,
+207,,No country,20,50,10,0,20,75, , ,175,29.17,
+207,,No country,60,20,0,30,50,15, , ,175,29.17,
+209,,No country,55,50,0,25,30,10, , ,170,28.33,
+209,,No country,10,60,0,30,70,0, , ,170,28.33,
+211,,No country,40,50,0,0,0,75, , ,165,27.50,
+211,,No country,50,50,10,0,0,55, , ,165,27.50,
+211,,No country,55,25,0,10,50,25, , ,165,27.50,
+211,,No country,40,50,0,0,0,75, , ,165,27.50,
+215,,No country,10,0,0,15,100,30, , ,155,25.83,
+215,,No country,30,5,0,40,0,80, , ,155,25.83,
+217,,No country,60,50,0,0,0,40, , ,150,25.00,
+217,,No country,20,50,10,10,35,25, , ,150,25.00,
+217,,No country,10,25,0,0,80,35, , ,150,25.00,
+220,,No country,0,0,0,90,15,40, , ,145,24.17,
+220,,No country,25,0,10,50,30,30, , ,145,24.17,
+220,,No country,40,0,0,70,10,25, , ,145,24.17,
+220,,No country,60,50,0,15,5,15, , ,145,24.17,
+220,,No country,10,50,0,35,0,50, , ,145,24.17,
+220,,No country,55,50,0,0,0,40, , ,145,24.17,
+220,,No country,5,0,10,0,40,90, , ,145,24.17,
+227,,No country,40,50,0,0,0,50, , ,140,23.33,
+227,,No country,35,50,10,15,0,30, , ,140,23.33,
+227,,No country,60,55,0,10,0,15, , ,140,23.33,
+227,,No country,0,50,0,0,90,0, , ,140,23.33,
+227,,No country,25,50,10,0,50,5, , ,140,23.33,
+232,,No country,0,70,0,30,5,25, , ,130,21.67,
+232,,No country,80,10,10,0,25,5, , ,130,21.67,
+232,,No country,20,25,10,0,40,35, , ,130,21.67,
+232,,No country,40,50,10,5,0,25, , ,130,21.67,
+236,,No country,10,50,10,15,30,10, , ,125,20.83,
+236,,No country,80,0,0,0,0,45, , ,125,20.83,
+236,,No country,10,50,0,30,30,5, , ,125,20.83,
+239,,No country,30,40,0,35,0,15, , ,120,20.00,
+239,,No country,55,10,0,5,30,20, , ,120,20.00,
+239,,No country,15,5,0,0,0,100, , ,120,20.00,
+242,,No country,20,40,0,5,0,50, , ,115,19.17,
+242,,No country,5,50,0,10,30,20, , ,115,19.17,
+Guest,,No country,5,50,0,5,10,45, , ,115,19.17,
+244,,No country,10,5,0,0,50,45, , ,110,18.33,
+244,,No country,0,50,0,30,0,30, , ,110,18.33,
+246,,No country,5,50,0,0,30,20, , ,105,17.50,
+246,,No country,30,50,10,0,0,15, , ,105,17.50,
+248,,No country,20,50,0,20,0,10, , ,100,16.67,
+249,,No country,60,10,0,5,15,5, , ,95,15.83,
+249,,No country,55,20,0,5,0,15, , ,95,15.83,
+249,,No country,15,30,10,0,0,40, , ,95,15.83,
+249,,No country,0,50,0,40,0,5, , ,95,15.83,
+Guest,,No country,0,50,10,15,0,20, , ,95,15.83,
+253,,No country,0,0,0,0,0,90, , ,90,15.00,
+253,,No country,45,40,0,0,5,0, , ,90,15.00,
+253,,No country,0,50,10,5,0,25, , ,90,15.00,
+256,,No country,0,0,10,0,5,70, , ,85,14.17,
+256,,No country,5,65,0,10,0,5, , ,85,14.17,
+256,,No country,0,20,0,30,0,35, , ,85,14.17,
+259,,No country,20,50,0,0,0,10, , ,80,13.33,
+259,,No country,25,0,0,5,30,20, , ,80,13.33,
+259,,No country,10,50,0,0,0,20, , ,80,13.33,
+262,,No country,10,50,0,0,0,15, , ,75,12.50,
+262,,No country,25,0,0,20,0,30, , ,75,12.50,
+Guest,,No country,55,0,0,0,0,20, , ,75,12.50,
+264,,No country,0,5,0,5,30,30, , ,70,11.67,
+264,,No country,45,0,0,15,0,10, , ,70,11.67,
+264,,No country,0,50,0,0,0,20, , ,70,11.67,
+267,,No country,5,5,0,20,10,25, , ,65,10.83,
+267,,No country,0,0,10,55,0,0, , ,65,10.83,
+Guest,,No country,30,0,0,0,25,10, , ,65,10.83,
+269,,No country,5,25,0,0,0,30, , ,60,10.00,
+269,,No country,0,10,0,0,30,20, , ,60,10.00,
+271,,No country,50,0,0,0,0,0, , ,50,8.33,
+271,,No country,20,0,10,0,0,20, , ,50,8.33,
+271,,No country,0,20,0,10,0,20, , ,50,8.33,
+274,,No country,15,5,0,5,0,20, , ,45,7.50,
+275,,No country,0,25,0,0,10,5, , ,40,6.67,
+276,,No country,15,0,0,10,5,0, , ,30,5.00,
+276,,No country,0,0,0,0,30,0, , ,30,5.00,
+278,,No country,5,0,0,10,0,10, , ,25,4.17,
+278,,No country,0,0,0,5,5,15, , ,25,4.17,
+278,,No country,20,0,0,0,0,5, , ,25,4.17,
+281,,No country,0,0,0,0,0,20, , ,20,3.33,
+281,,No country,0,0,0,0,0,20, , ,20,3.33,
+283,,No country,0,5,0,0,0,10, , ,15,2.50,
+283,,No country,0,5,0,0,0,10, , ,15,2.50,
+283,,No country,0,10,0,5,0,0, , ,15,2.50,
+286,,No country,0,0,0,0,10,0, , ,10,1.67,
+287,,No country,0,5,0,0,0,0, , ,5,0.83,
+288,,No country,0,0,0,0,0,0, , ,0,0.00,
+288,,No country,0,0,0,0,0,0, , ,0,0.00,
+288,,No country,0,0,0,0,0,0, , ,0,0.00,
+288,,No country,0,0,0,0,0,0, , ,0,0.00,
